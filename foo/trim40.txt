@@ -1,0 +1,577 @@
+Support for the Verge Cast comes from Quest 3, the new Mixed Reality headset from Meta.
+Now you can expand your world in ways you never thought possible with the new Meta Quest 3.
+Meta sent us one to try and man does this thing look futuristic.
+With over 500 titles, it's easy to dive into whatever you're into.
+You can check out the new Meta 3 now, available for $4.99.
+Learn more at meta.com, see child safety guidance online, accounts for 10 years or older.
+Certain apps, games, and experiences may be suitable for a more mature audience.
+It's not just sci-fi anymore.
+Virtual reality for work is here.
+Mixed reality for work is here.
+And companies everywhere are using them both to transform how they operate.
+Architects are able to walk through buildings in mixed reality before they're even built.
+Co-workers from opposite ends of the earth are working shoulder to shoulder in VR spaces.
+And all sorts of workers, from pilots to underwater welders, are getting trained in a virtual environment that's safer and more cost-effective.
+That's Meta for Work.
+Giving you VR and MR Tech to work smarter, closer, safer, together.
+Learn more at forework.meta.com.
+Hello, and welcome to an emergency crossover episode of The Vergecast and Decoder.
+I'm Eli Patel.
+I host both shows.
+I've got David Pierce with me.
+Hello.
+Alex Heath is here.
+Hello.
+We are supposed to be off on both shows this week, but given what happened with OpenAI over the weekend, which is a story about org charts in many ways,
+We had no choice but to do an emergency episode of our podcast, especially because Alex and I spent our weekends on the phone breaking a bunch of news about the discussions that led to what at this moment is Sam Altman, Microsoft employee.
+which I can confidently say is an outcome no one thought would happen in this entire saga.
+This is so bananas.
+It is the whole thing is insane.
+I am very much in the weeds on this whole thing.
+So, David, can you help us get through what happened this weekend?
+Because it is crazy.
+Yes.
+Okay.
+So we're going to do the following in three parts because I think this is the only way to do it in a way that makes any sense.
+The first thing we're going to do is just basically tell the story of the last 96 hours, starting from sort of midday Friday until where we are right now.
+Things are still changing.
+There's a non-zero chance that real news will break while we're recording this.
+But we're going to get as close to the moment as we can as we do this.
+And so I just want to tell the story all the way through.
+Then I want to talk about the org charts piece that you're talking about.
+We're going to talk about open AI as a company and how this happened.
+And I know that's a thing you two have spent a lot of time trying to sort through.
+And others have done really good reporting on over the course of this weekend.
+So we're going to talk about that.
+And then at the very end, I wrote this down as just winners and losers.
+But I think it's useful to talk about kind of what this landscape looks like going forward.
+So all of that said, let's just start at the beginning.
+And the beginning is Friday afternoon, at least as far as I can tell, out of absolutely nowhere.
+OpenAI publishes a blog post saying in basically as many words, we have fired Sam Altman.
+as our CEO.
+That's where all of this begins.
+So the board fires him, they kick Greg Brockman off of the board.
+He then a few hours later immediately quits.
+And as far as we understand, and you two should correct me if I'm wrong, because I think the like minutes leading up to this are very important.
+No one, including most people at OpenAI had any idea this was coming, correct?
+It's not only that they didn't know it was coming, they were actually on a company holiday.
+They were taking a day of rest because of all the craziest of the previous week, where they were announcing all these products that Sam was the face of.
+Not only were they weren't prepared, but it was actually when they were all actively not looking at what was going on at the company.
+And then externally, the company was totally business as usual, right?
+Sam had just been on the Hard Fork podcast.
+He had taped an interview with Casey Newton and Kevin Roos, an interview which they had to can because he got fired two days later.
+He had been doing other appearances, like from all external appearances, this was totally business as usual for this company.
+And Sam was completely shocked when the board called him into a Google Meet
+which is also very funny and fired him.
+And for everything we understand about that Google Meet is they basically read him the statement, which is you have not been consistently candid with your communications to the board.
+And we don't think that we can trust you or the company.
+And that's all he got.
+That's all anyone has gotten.
+So, Alex, one of the things we all immediately started talking about was the ruthlessness of this statement.
+Normally, when you're getting rid of your CEO, even if you're essentially firing your CEO, you find a way to do this sort of slowly and nicely so that they get to step away to spend more time with their family or take some time off or whatever.
+And everybody pretends this is nice even when it's not.
+the opposite of that.
+I don't know that I can remember a thing that felt as much just like a knife of a blog post as this one.
+Yeah, this is ice cold.
+This is saying that you are firing someone in a fairly direct way for a situation like this.
+Usually, when it is a co-founder and it is someone as high-profile as Sam Altman, like Neil, I was saying, this will be very managed.
+It will phase out.
+He'll phase out of the company.
+It looks like he's wanting to pursue his passions, those kinds of words.
+No, we have knifed Sam Altman in the back in the night.
+And I mean, just like what Neil I was saying about this being business as usual, he was literally at a conference the day before and the night before even.
+And I'm told was like, I've got to go.
+I've got a meeting.
+And I think it was right when all this was starting.
+So he was literally on stage representing open AI with a bunch of artists in Oakland right before all this happened.
+Okay, so all this happens, Muram Arati, the CTO of OpenAI is promoted to interim CEO, and this is where we are.
+So then immediately, everybody starts scrambling to figure out what the hell is going on here.
+Basically, it was the vibe at the time.
+You guys start talking to people, and this one answer about
+What was going on starts to trickle out and this all feels like thousands of years ago But my my memory of this is like the the leading reason became a split between sort of two factions at open AI one that said
+Basically, we are a research project designed to make sure that we can make AI good for the world.
+And another side that said, this is a gigantic business that we're going to continue to run like a gigantic business.
+And that starts to percolate up as like, first sort of a leading like educated guess.
+And then we got some reporting that said that was part of the split.
+But how would you frame kind of what we learned in the early hours of like, what the actual fight was that led to Sam being fired?
+Eli, what was your sense?
+You know, I still think we don't know, especially because today, Ilya Sutskiver is saying that he regrets his actions.
+But the theory on Friday night, on Friday night, the theory that started bubbling out and the thing everyone started talking about was.
+that the nonprofit of open AI, which owns open AI, the commercial entity of which Sam is the CEO and Mike, the theory on Friday night that started bubbling out is that open AI is a nonprofit.
+That's the board of directors that nonprofit controls a commercial entity.
+of which Sam was the CEO and of which Microsoft is an investor, that board thought the commercial entity was moving too fast to commercialize LLMs, right?
+But they thought that the danger of the products was too high for how fast Sam was moving.
+There was some religious split, ideological split.
+That was all very hazy between the people who believed we were on a course to destroy humanity.
+And Sam, I've been saying, we're going to do a store for GPTs and you can make laundry buddy.
+That was out there.
+That was the conversation that was happening.
+Is Sam moving too fast with a dangerous technology?
+Did the board cannon for that?
+Is Ilya
+a religious believer in the idea that we need to be safer, which is what Open AI was founded to do this safely and make AGI.
+And the existence of that tension is not new, by the way.
+Whether or not that led to what has happened in the last four days, I think you're right, we still don't know.
+But the existence of that tension between those two sides is pretty real and well-established at this point.
+That tension is why we have Anthropic and why Elon is doing another AI company right now.
+Open AI has been consistently chaotic and consistently splitting itself apart really since the beginning.
+I just don't think anyone expected it to split from the top in such a dramatic way.
+And, Nila, I think maybe now is where it's probably good to explain who actually made this decision, because really this comes down to six people, right?
+And so we should go through exactly who the people were that made this decision, because increasingly it's becoming clear that now it's three people against the rest of open AI, which is just an insane position.
+Which is insane.
+Also, this is not a public company.
+So we don't have a record of these votes.
+The board has not said anything.
+We don't know if this was a unanimous vote.
+We don't have a majority.
+Like the reporting is that it's a majority vote.
+But because of what Ilya is saying today, it is actually really unclear what happened here.
+Well, here's what we know.
+Sam and Greg posted on X that Ilya, who is a co-founder, the chief scientist, really described to me by many as the brains of the operation.
+One of the most influential AI researchers in the world worked at DeepMind before.
+Kind of the AGI Doom person, I would say, the most prominent one inside the company.
+He was the one who told Sam and Greg that they were being fired by the board.
+At that time, the board was six people, including Sam and Greg.
+So Greg is the board chair.
+So the board chair found out he got fired from his own board, which is, I don't know how that works.
+No clue.
+What's clear, because we know Ilya was the one who communicated the message, is that the board needed a majority.
+So they needed four people.
+The other three members of the board, besides Ilya, are not open-eyed employees, right?
+So they got Ilya to side with them.
+kick Sam and Greg out without any notice.
+And now Ilya is saying after all of this, and after pretty much all of the company is set to resign and go to Microsoft with Sam, I actually regret this.
+And I also will go to Microsoft with Sam if we don't bring them back.
+Okay, we're going to get to that.
+Like, hey, Heath, unbelievable spoiler alert on this story.
+Like, come on.
+Sorry.
+Anybody listening to this is well spoiled.
+Like, if you're listening to an emergency episode of this, it's like, you're in it.
+That's fair.
+Yeah.
+No, I think where all this goes is very interesting.
+And I think that the ilia piece of this is actually super interesting.
+But just to get back to Friday night, because I think the timeline here actually matters a lot.
+So Friday night, we start learning the reasons it happened.
+I believe three high level open AI employees all resign right after this all goes down with Sam and Greg.
+Sam and Greg, as far as we can tell, and I'm curious if you guys have heard anything about this, immediately go to work spinning up a new
+AI company.
+I think it was very obvious to everybody immediately that they could just like have a company with an LLC and a name and people would throw billions of dollars of investment at it.
+Yeah.
+And so they started, the things that had been reported are that they were building, or they were thinking about building an AI chip company to rival Nvidia.
+There's been the thing with Sam and Johnny Ive and Masa Sun working on AI hardware.
+Sam's largest investor in Humane, which is forever hilarious.
+Did you guys learn anything about what the like counter idea might have been if we landed in the world of Friday night where they just went off and started their own company?
+No, and I think it's actually important to fill that in a little bit.
+I don't know if you've ever been fired.
+You know, the first thing you do is you plot your revenge, like very emotionally plot your revenge, right?
+And that is what was happening.
+That is what that communication was.
+We'll just start a new cut.
+Like, these are still people.
+They are very human people, as we discovered throughout their actions of the weekend.
+They might think they're the masters of the universe.
+They might be playing with $80 billion worth of shareholder value, but they are people, like just deeply emotional flawed people, just like everybody else.
+And so that first wave was very much a revenge wave.
+Like they had no notice, so they had necessarily no plan.
+So we'll start a new company.
+I can get the money.
+Everyone will come over.
+That was a burst of communication that I think was rooted in just the emotion of the moment.
+Then I think everyone got some sleep.
+And then we entered into Saturday where Alex and I broke the news that the investors were pressuring the open AI board to bring these folks back.
+which bled into today.
+And again, the absolutely unpredictable outcome of today.
+But I think the Friday night, we're just going to go start a new company was just the first heated emotion of that moment.
+And all the people around them
+We're very much saying, hold up, can we just control Z this thing and fix it?
+I heard my interest is just fixing it very directly from some people.
+I'm just trying to fix it.
+This is ridiculous.
+It should have never happened.
+I believe that, but also,
+Alex, tell me if you agree with me on this or not.
+I would assume that every venture capitalist on earth with Sam Altman's phone number called him on Friday night and said, tell me how to give you money for your next thing.
+For sure.
+So, I mean, is your point that they should have just left and not tried to?
+No, I think, Neal, I think you're right, but I also think the sort of parallel universe in which they went to start that company is not that far off.
+I'm not saying it was impossible, right?
+It was a very easily accomplished thing, I think you're correct.
+The money was flowing, the support was public, right?
+You saw the node COSLA who runs COSLA Ventures just publicly tweeting how much he supported, like the money was available from all of his existing investors, probably from Microsoft, right?
+But the thing that I'm just trying to underline here is that first wave on Friday night of we'll start our own thing was reflexive.
+It was not considered.
+And there's a big gap between we'll support you in whatever your next thing is and writing a check against the business plan.
+And that gap was as far as we can tell, but no one ever thought about crossing that chasm.
+OK, that's fair.
+All right.
+And so let's get to Saturday, because that's when stuff gets even weirder somehow.
+But first, we're going to take a quick break.
+We'll be right back.
+This podcast is brought to you by MetaQuest 3, the new mixed reality headset from Meta.
+Now you can expand your world in ways you never thought possible with the new MetaQuest 3.
+Put on the sleek, most powerful quest yet, and jump into fully immersive games, or blend virtual elements into your physical surroundings with mixed reality.
+Instantly go from watching to playing the part in your favorite show with Stranger Things VR.
+Live the action and really feel what it's like to step into the shoes of an assassin in Assassin's Creed Nexus.
+Even turn your couch into courtside seats with X Stadium and watch your favorite NBA team.
+With over 500 titles, it's easy to dive into whatever you're into.
+Expand your world with MetaQuest 3.
+See Child Safety Guidance online.
+Accounts for 10 and up.
+Certain apps, games and experiences may be suitable for a more mature audience.
+Learn more at meta.com.
+It's not just sci-fi anymore.
+Virtual reality for work is here.
+Mixed reality for work is here.
+And companies everywhere are using them both to transform how they operate.
+Architects are able to walk through buildings in mixed reality before they're even built.
+Co-workers from opposite ends of the earth are working shoulder to shoulder in VR spaces.
+And all sorts of workers, from pilots to underwater welders, are getting trained in a virtual environment that's safer and more cost-effective.
+That's Meta for Work.
+Giving you VR and MR Tech to work smarter, closer, safer, together.
+Learn more at forework.meta.com.
+All right, we're back.
+So we've had the breakup.
+We've had the feelings, at least putting up angsty away messages.
+And then Saturday morning in the Bay Area somewhere, reconciliation begins.
+Neal, I take me through like the beginning of the story on Saturday.
+So what we had heard is the investors in OpenAI, which is mostly the commercial entity, they're putting a lot of pressure on, hey, we need to at least know what happened.
+We need to know your reasoning and we need to see if we can resolve this situation.
+That led to what I am guessing is yet more Google Meet calls.
+And I just want to keep highlighting this because I think we are all imagining some like very tense in-person meetings.
+And really, everyone was kind of just on the phone.
+I mean, we're all imagining the board room from succession, right?
+That's what's in everybody's mind as we go through this.
+Like a bunch of people sitting around a table raising their hands like with great intention.
+I'm saying, I don't even know if their cameras were on.
+This is a lot of people who are alone or in small groups of people in various places.
+Also, just very important note, $10 billion from Microsoft can still not make you use Teams.
+It is the most important.
+So we start hearing there's all this pressure.
+And Alex actually hears, hey, they might bring him back.
+So Alex and I just start calling everyone.
+And we broke this.
+We beat, I don't remember who we beat, but we beat someone by six minutes to the story that open as board is in negotiations to bring Altman back.
+And the most important piece of that story is he was ambivalent about it.
+That was reporting that we had.
+And his condition was, I'm not going to go work for these people again.
+They just fired me for no reason.
+They all have to go, which is understandable.
+Just an incredible condition to impose, right?
+So even from that moment, like we get this reporting, we break the story, we're like high fiving.
+I'm thinking and Alex is thinking, OK, to make this happen,
+four people have to publicly admit they made a mistake and resign in disgrace.
+Yeah, this is a high mountain.
+Who knows what will happen next.
+And then we spent the rest of the weekend on the phone.
+Yeah, Alex, what was your sense of whether that those were kind of real requests, whether that was again, Sam saying, I'd like to come back.
+Here's my rational list of what it will take or Sam being like,
+Fuck me fuck you.
+I think it was pretty clear that Sam had the upper hand as of like Saturday midday and then you know We had reported that they had a 5 p.m.
+Deadline to reach a deal with the board and The thing that was going to happen at that point was if it wasn't reached Sam's camp was telling the board there's gonna be mass resignations You know the entire company is behind us
+Is that why you think he had the upper hand?
+Just because it was so clear so quickly that OpenAI as a company was behind him?
+I think what everyone underestimated is the resolve of what ultimately was three people to not have him come back.
+And the thing is the board has been radio silent.
+Aside from that initial statement and an internal email that reiterated the statement to employees Sunday night, no one from the board has said anything publicly.
+They haven't elaborated on anything.
+So that's important.
+But it seemed like Sam was getting the upper hand the 5 p.m.
+Deadline passes on Saturday I'm at a party and Eli is like where I'm like stepping aside and you guys calling me and we're like What is happening?
+Does this mean mass resignations and then we look on x and I want to know it is deeply ironic that all of this has been playing out on x because it's all training data for grok and
+It's all training data for Elon's OpenAI competitor.
+This is all just a plan to poison Grock.
+You're like, Grock, how do I replace the CEO?
+And it's like, here's some ideas.
+Right.
+And it's also, there's a lot of deeper irony there with Elon we can get into at some point.
+But we saw this very public display of support for Sam Saturday night with pretty much everyone at OpenAI quote tweeting him with the heart emoji, right?
+Yeah.
+So Sam tweets something like, I love the open AI team.
+And as if they had coordinated this in a high school cafeteria, they all quote tweeted it with hearts.
+They all quote exactly.
+Major high school calf vibes.
+And then we're all thinking like,
+Okay, this maybe means he won, like we're all like Neil and I are scratching our heads.
+And then, you know, you wake up the next day and you realize that was a pressure campaign to show that Sam actually did have the backing of the whole company.
+Yeah.
+And so we had heard we, we had reported this 5pm deadline.
+5 p.m.
+Pacific.
+So that deadline just comes and goes.
+And we are scrambling, texting everyone in the universe, like, what is happening?
+This was a deadline, right?
+Everyone's supposed to quit.
+So they start tweeting the hearts.
+And it was actually very unclear whether this was, we're all quitting right now or Sam has won.
+And the online reaction was like instantly polarized, right?
+Binary reaction, like people are like, Sam's won, it's done.
+And our instinct was we would know, right?
+Like this is cryptic.
+We're doing high school away messages on X.
+It's absolutely not done, but we still don't know.
+And there was no further conversation after that.
+I was basically told, go to bed by a source.
+You're done for the day.
+We did this thing.
+It's the show of force.
+Everyone has to go to sleep now.
+We'll try again tomorrow.
+So that was the end of that day.
+I will say that my favorite conspiracy theory about this is that a misaligned AI was instructed to get people to watch the Las Vegas F1 Grand Prix.
+which started at 1AM Eastern.
+And I was like, this almost worked.
+Like I almost watched this, but I went to bed anyway.
+But then we woke up the next morning and we were, it was basically the status quo.
+Like this pressure campaign had not moved anything.
+We were told, Care Switcher has reported this, we were told that there was a noon Pacific deadline, which they blew right by.
+And then we reported again, there was another 5PM deadline.
+So my response to that was, is this real?
+You can only issue so many 5 p.m.
+ultimatums in your life, especially in sequential days.
+And I was told, yes, this is a hard deadline.
+It's real today.
+Either this happens at 5 p.m.
+today or we go in another path.
+And I thought, oh, man, how do I report this?
+And that is when Sam tweeted a picture of himself in the OpenAI offices holding a guest badge with the caption, first and last time I ever wear this badge.
+which is right, that's the ultimatum, like either this is getting fixed or I'm never coming back here again.
+And so that was when I felt comfortable saying, okay, it's like, we're doing the 5pm thing again, but I've got the guy like issuing the ultimatum, like this makes sense to me.
+Yeah, so then they then spent the whole day at OpenAI headquarters, hashing this out, basically having what I would assume is just the same fight over and over and over again.
+Sam trying to get the board to resign and disgrace and the board not wanting to resign and disgrace.
+There was some internal discussion there about picking the successors for the board.
+And the feeling, and we don't have this on the side, but it's a little shakier, but the feeling was people were suggesting candidates
+We heard a lot of what I would call like web 1.0 names.
+Sheryl Sandberg was in the mix.
+Like, right, Marissa Myers in the mix.
+Like all these like old heads who are from that era, you know, the adults, like we're going to hire adult supervision for Google.
+Like I was like, when is Eric Schmidt going to show up?
+Right.
+Like this is, these are the kinds of people we're talking about.
+Yeah.
+I mean, if you saw a very public web 1.0 tech executive, like tweeting support of Sam over the weekend, they were most likely trying to get on the board.
+Costolo just appears out of nowhere at one point Alex is like these people are just like in the firmament They're available to show up and like run your company for a couple years like Brett Taylor We should know I mean Brett Taylor with like the guy who literally just negotiated the sale of Twitter to Elon and the second most dramatic boardroom tech situation of the last decade.
+Yeah
+It's like, I keep calling him capital A adults, although no one here was acting like an adult.
+But they have that rep.
+Here's the cast of characters.
+And we had heard that Sachin Adela was mediating this conversation.
+And his point of view was he's pretty neutral.
+He just wants us over with.
+He needs a story to tell Microsoft shareholders on Monday morning.
+And that is Microsoft's interest, is stability for shareholders because they have this massive dependency on OpenAI.
+And that was one of the other things we should have said on Friday is that this all happened while the markets were still open on Friday and Microsoft's stock like tanked as a result of this happening.
+Like this was the biggest public blowback on this was going to come back to Microsoft in a pretty real way.
+So it makes sense that Nadella was going to be directly involved in doing this.
+And this ticking clock for Microsoft, I think it is underappreciated, but it was very real that Microsoft needed a crisp thing to say on Monday morning one way or another.
+So I always had it in the back of my head.
+Like at some point, this has to hit some kind of resolution because Microsoft will not demand it, but will just create a resolution to say to its shareholders.
+So there's all this like vetting of these like old heads.
+The OGs come to town, right?
+So the vibe I'm getting, and again, we don't actually know if everyone was all together.
+We know there was a lot of opening high people at that headquarters.
+We don't know if the board was there, actually.
+But the vibe we're getting is people are firing names at this board, and the board is not taking it seriously.
+And in the meantime, they are running their own search for a new CEO.
+because their interim CEO, Mira Muradi, has sided with Sam in the meantime, like publicly during the hearts campaign on Twitter, she's posting the heart, right?
+So she's, what a sentence.
+She's gone over.
+I mean, it is just absolutely childish.
+When I say these are very flawed human people, like we're going to win this fight by posting hearts on Twitter is
+I don't know what to say about it.
+One day I will like have had enough time to process that situation.
+But Mira has gone over to team Sam like very publicly.
+So the board needs a new CEO so that they're getting tossed these names and everyone is hoping that they will accept some names and resign and the new names will take over.
+And in the meantime, they are looking for a new CEO.
+And that is more or less what is happening all day Sunday as the 5 p.m.
+deadline draws ever near.
+So we hit that deadline, and again, nothing.
+Alex, where was your head at sort of the end of Sunday?
+Obviously, things get crazy several hours after that deadline, but where were we at the end of that day on Sunday, do you think?
+I was feeling like if we didn't have an announcement by five, it wasn't going to work out.
+And we were kind of getting back channel that by midday Sunday, things were taking a turn.
+And I didn't obviously no one could have expected what actually happened.
+This is the most like I was saying at the top bananas thing.
+But yeah, I think people were generally people who were close to the story were thinking like, OK, he made it very clear publicly.
+This is the last time he's setting foot in the building.
+The deadline has passed and it's not looking good.
+And there's a version of that that would have been a very dramatic weekend that ended in a relatively okay thing.
+Sam and Greg go off to do something.
+They bring some open AI people with them.
+Open AI hires a new CEO.
+Everybody moves on with their lives.
+There's a version of this where a lot of people had a lot of feelings, but it turns into a relatively normal
+corporate change, right?
+But that is obviously not what happened.
+Right.
+The negotiation to bring Sam Altman back has failed.
+Miramarati continues his interim CEO, Microsoft wishes Sam the best and says they'll support him in the new venture.
+Right.
+Again, the thing that needed to happen by Monday morning was a Microsoft statement to the market.
+And you really just cannot underestimate how much pressure that was applying to the situation.
+Yeah.
+So I'm expecting that statement, right?
+Like, here's the forcing function.
+We just have to be ready for this deal is going to fall apart.
+Microsoft is going to issue some holding statement and say, you know, we have a deal with open AI, everything's fine.
+Our contracts are rock solid.
+Brad Smith, our chief legal officer is a great lawyer, like whatever Microsoft is going to say to calm everybody down.
+But instead,
+Then all credit to Bloomberg.
+Bloomberg has a report, I don't know, 10 minutes before the thing actually happens that Mira Murati has hatched a plan as interim CEO to just rehire Sam and Greg as employees while the board is out calling people
+to interview them to be the CEO to replace Mira.
+And so what comes out in the end, I'll just fast forward a little bit, is Mira's plan was to quickly hire Sam and Greg as employees again, forcing the board to fire all three of them.
+which would have led to presumably lawsuit.
+Like who knows what was gonna happen in that moment.
+But that was the last swing of chaos when it was, I think obvious, oh, this just fell apart.
+Like we're not in a place where we're negotiating for people resigning.
+We're in a place where we're actively trying to create legal leverage for a lawsuit to come.
+And the board is actively trying to replace the person that they just hired to replace the CEO they fired.
+Sorry, it's just I know it's just like this whole thing has been such a blur for Nila and I like when you say all this out loud, it's just truly it's insane.
+And it does seem like I think your instinct there is right, Nila, that it's at that point what you're saying is I'm not going to quit.
+You have to fire me.
+Yeah.
+Like I'm going to cause so much trouble for you that you're going to have to get rid of me and then I'm going to have ammo kind of in whatever direction I want to use it.
+Yeah, exactly.
+Right.
+And the rehiring of Sam and Greg is like a deeply funny idea.
+Like you have to fire them again.
+Just like hire them as interns and watch them get fired.
+Yeah.
+And all three of them will then sue the board.
+And this is when Alex and I just started sending out hundreds of text messages.
+This is about to fall apart.
+Like this is absolutely about to fall apart.
+And it fell apart.
+And it fell apart in the weirdest way possible, which is the board just didn't even announce.
+Like the information broke.
+Yeah.
+This is just like coming from sources.
+Like the board has been in a bunker somewhere.
+They don't have a crisis comms team.
+They don't have like people speaking to the media.
+They've just been radio silent, but it starts to trickle out that they've actually named a new CEO and it's Emmett Shear.
+Not on my bingo card for who is going to be the next CEO of OpenAI.
+Not on anyone's bingo card.
+I think it's very safe to call this one out of left field.
+Emmett was the co-founder of Twitch, which is a live streaming video site, not an AI company.
+He's not seen as an AI leader.
+He posted shortly after it leaks that he was being named CEO that he got the call for the job that day and took a few hours to decide.
+And, you know, he's a free agent.
+He left Twitch earlier this year before mass layoffs.
+They've had two rounds of layoffs since.
+I can confidently say that the vibe within Amazon is that Twitch has been a, hmm, how should I put this, a shit show since Amazon bought it.
+And so no one really thought of Emmett, except the board, apparently.
+He is now the CEO, and he sent this note internally to employees saying that he was going to conduct an independent review of the board's actions, which is hilarious because he was hired by the board.
+I don't think that's possible to have an independent review when you are the person you're represented by, the people that you're reviewing.
+I mean, it just doesn't make sense.
+And also those people can callously fire you whenever they want, which they've proven twice in 48 hours that they can do.
+Okay.
+And we've been dancing around this, this whole time.
+I really think at this point, we should just say who these people are because at the end of the day, three people set all this in motion.
+Three people have caused open AI to explode from within.
+So should we just get into that?
+Yeah, do it.
+Okay.
+So OpenAI is very strange in how it's structured.
+And this is something that people haven't really been paying attention to because we've been so focused on just the success of their products with chat GPT.
+But OpenAI started as a nonprofit.
+And so it has this weird structure where there's a non-profit.
+There's a flow chart, which is like perfect for Dakota.
+There's a flow chart on OpenAI's website.
+And I challenge you to look at this flow chart and try to make sense of it.
+It is one of the most confusing.
+I just want to be very clear.
+You can definitely make sense of it.
+And they've drawn it to be more confusing than it actually is.
+Okay.
+That is 100% true.
+We're going to redraw the flow chart now because it's all different.
+So there's this nonprofit with this board that controls it.
+And importantly, the board of open AI does not have equity in open AI, which is a really wild thing.
+And so that's the context of the board.
+There's three of them really that aren't open AI people.
+So one of them is Adam D'Angelo, who is the CEO of Quora.
+He operates, I should note, a competing AI chatbot platform called Poe.
+He was the original CTO of Facebook.
+He's a known quantity in Silicon Valley.
+He's a really well-connected guy.
+There's a woman named Helen Toner who has ties to the effective autism movement.
+She used to work at Open Philanthropy.
+She's now at Georgetown.
+She funds AI safety stuff.
+She was actually on our stage at Code in September with Casey Newton talking about AI safety.
+And then the other one is a woman named Tasha McCauley, who is the former CEO of GeoSim Systems.
+And as far as I can tell,
+basically no one in tech that I know knows who she is.
+Okay, so that's the three people, and they are the ones who basically decide to bring Emma in.
+Because as we find out in the next turn of the story, the guy that we thought was the architect, the mastermind of all of this, flipped, which we can get into.
+Yeah, so, and it's a weird choice.
+And it's a weird choice.
+And also, openly, a decelerationist, which is a phrase that the AI community loves to use.
+Like, there's videos of him being like, this is terrifying.
+We should slow it down.
+This will extinguish all value in the cone of light, which is a real thing he says.
+Wow.
+It's amazing.
+And his point of view is we should slow AI innovation way down so we can get a handle on how dangerous it is.
+So you can see where the board is, right?
+This is the split that we've been hearing about the entire time.
+Open eyes playing with dangerous toys and Sam is running too fast.
+So we've brought an Emmett shear to slow this whole thing way down.
+Yeah, I think that's right.
+And then on the flip side, very early this morning,
+Neil, I think to your point correctly, to get something out before the stock markets opened, Microsoft announces it has hired Sam Altman and Greg Brockman to run, I believe the phrase is an AI research lab.
+An advanced AI research team is their statement.
+And can I just read the statement from Sacha Nadella?
+Please do.
+Which just contains magnitudes.
+We remain committed to our partnership with OpenAI, of confidence in our product roadmap, our ability to continue to innovate with everything we've announced at Microsoft Ignite, and in continuous support of customers and partners.
+We look forward to getting to know Emmett Shearer, and OAI's new leadership team, and working with them.
+And we are extremely excited to share the news at Sam Altman and Greg Rockman.
+Together with colleagues, we'll be joining Microsoft to lead a new advanced AI research team.
+We look forward to moving quickly to provide them with the resources needed for their success.
+In the journalism business, we call that bearing the lead.
+And importantly, Sam Altman is being given the title of CEO at Microsoft, which is inside Microsoft's corporate politics, like a big deal, right?
+There are not a lot of CEOs at Microsoft.
+Usually when they acquire a big company,
+They give those people the CEO title, so the person who leads LinkedIn as a CEO title, the person who leads GitHub as a CEO title.
+Phil Spencer is now the CEO of Microsoft Gaming.
+That's a big deal.
+You can go listen to that Decoder episode where I ask him what that title shift means, and it basically means he has his own resources.
+He's split off from Microsoft, your own P&L.
+Well, I was even listening to that episode.
+It basically means you have your own resources and you are more of a free agent to run your little division like it's own little company.
+So this is the arrangement Sam is getting.
+What I will tell you is I read this statement, especially that we look forward to getting to know Emma Cheer.
+They don't know.
+They don't know these people.
+They don't know what's going to happen with OpenAI.
+They don't know if Emma's going to turn
+the pace of innovation way down, but they are able to tell the market, hey, the face of the AI winning that we've been doing as Microsoft now works at Microsoft.
+Does Sam Altman have a contract to work at Microsoft yet?
+Like, I don't know the answer to that question.
+Does Sam Altman, the guy used to run Y Combinator who has his hands in every startup in the universe, has multiple investment funds, thinks of himself as the guy who was running the hottest AI startup in the world on its way to making AGI,
+Does he want to be a Microsoft employee?
+I truly do not know the answer to that question.
+I do know that this statement utterly worked to not only calm the market, but to send Microsoft stocks skyrocketing.
+And we are now sitting here saying, do we need to pre-write Microsoft is now a $3 trillion company?
+Because the stock as we are speaking is like to the moon.
+So this statement worked.
+I'm just cautioning everyone.
+This, in my view, is a holding statement.
+It's still a holding statement.
+Well, I think knowing what we know about Sunday, knowing that Microsoft really wanted to have this buttoned up by markets open, this was decided like, it was like almost like 1 a.m.
+Pacific.
+Yeah, I was asleep.
+Like, straight up, I was like, I'm done now.
+I'm thinking that, like, okay, surely nothing more is to come.
+And then, like, around one, Adele tweets this, and luckily Tom Warren is waking up in London and gets it on the site.
+It's nuts.
+But I think there's an important thing here, which is we know that Microsoft wanted to get this done.
+I have to imagine that whatever got Sam and Greg to agree to go to Microsoft was a lot.
+I imagine they had all the leverage in that situation because they'll just go do their own thing, right?
+Like we've all been saying.
+Microsoft cannot make it look like the company that they have literally bet their AI Azure future on is imploding before their very eyes.
+I have to imagine this is going to go down as one of the best packages ever from a big tech company to a team to come

@@ -1,0 +1,578 @@
+start	end	text
+709	5050	Support for the Verge Cast comes from Quest 3, the new Mixed Reality headset from Meta.
+5451	9112	Now you can expand your world in ways you never thought possible with the new Meta Quest 3.
+9572	12533	Meta sent us one to try and man does this thing look futuristic.
+12893	16054	With over 500 titles, it's easy to dive into whatever you're into.
+16394	19075	You can check out the new Meta 3 now, available for $4.99.
+19595	23856	Learn more at meta.com, see child safety guidance online, accounts for 10 years or older.
+23976	27277	Certain apps, games, and experiences may be suitable for a more mature audience.
+31218	32759	It's not just sci-fi anymore.
+33399	35000	Virtual reality for work is here.
+35721	37202	Mixed reality for work is here.
+37782	41284	And companies everywhere are using them both to transform how they operate.
+42104	45867	Architects are able to walk through buildings in mixed reality before they're even built.
+46607	50909	Co-workers from opposite ends of the earth are working shoulder to shoulder in VR spaces.
+51549	58571	And all sorts of workers, from pilots to underwater welders, are getting trained in a virtual environment that's safer and more cost-effective.
+59352	60292	That's Meta for Work.
+60932	65534	Giving you VR and MR Tech to work smarter, closer, safer, together.
+66274	67735	Learn more at forework.meta.com.
+83422	87906	Hello, and welcome to an emergency crossover episode of The Vergecast and Decoder.
+88727	89387	I'm Eli Patel.
+89407	90348	I host both shows.
+90368	91489	I've got David Pierce with me.
+92010	92290	Hello.
+92830	93491	Alex Heath is here.
+93831	94212	Hello.
+94232	103120	We are supposed to be off on both shows this week, but given what happened with OpenAI over the weekend, which is a story about org charts in many ways,
+103760	118885	We had no choice but to do an emergency episode of our podcast, especially because Alex and I spent our weekends on the phone breaking a bunch of news about the discussions that led to what at this moment is Sam Altman, Microsoft employee.
+119645	124348	which I can confidently say is an outcome no one thought would happen in this entire saga.
+124748	125729	This is so bananas.
+126670	128291	It is the whole thing is insane.
+128611	130632	I am very much in the weeds on this whole thing.
+131172	134995	So, David, can you help us get through what happened this weekend?
+135015	136136	Because it is crazy.
+136716	136956	Yes.
+137076	137377	Okay.
+137397	144003	So we're going to do the following in three parts because I think this is the only way to do it in a way that makes any sense.
+144463	155133	The first thing we're going to do is just basically tell the story of the last 96 hours, starting from sort of midday Friday until where we are right now.
+155253	156094	Things are still changing.
+156134	159957	There's a non-zero chance that real news will break while we're recording this.
+160277	163740	But we're going to get as close to the moment as we can as we do this.
+164020	165401	And so I just want to tell the story all the way through.
+165841	168703	Then I want to talk about the org charts piece that you're talking about.
+168723	172046	We're going to talk about open AI as a company and how this happened.
+172106	175629	And I know that's a thing you two have spent a lot of time trying to sort through.
+175709	178151	And others have done really good reporting on over the course of this weekend.
+178171	179312	So we're going to talk about that.
+179332	182834	And then at the very end, I wrote this down as just winners and losers.
+183775	189679	But I think it's useful to talk about kind of what this landscape looks like going forward.
+190020	193202	So all of that said, let's just start at the beginning.
+193422	199026	And the beginning is Friday afternoon, at least as far as I can tell, out of absolutely nowhere.
+199566	205311	OpenAI publishes a blog post saying in basically as many words, we have fired Sam Altman.
+205891	206492	as our CEO.
+206932	208153	That's where all of this begins.
+208333	213178	So the board fires him, they kick Greg Brockman off of the board.
+213318	215860	He then a few hours later immediately quits.
+216521	222126	And as far as we understand, and you two should correct me if I'm wrong, because I think the like minutes leading up to this are very important.
+222767	228132	No one, including most people at OpenAI had any idea this was coming, correct?
+228752	232836	It's not only that they didn't know it was coming, they were actually on a company holiday.
+233136	241244	They were taking a day of rest because of all the craziest of the previous week, where they were announcing all these products that Sam was the face of.
+241785	247811	Not only were they weren't prepared, but it was actually when they were all actively not looking at what was going on at the company.
+248351	251473	And then externally, the company was totally business as usual, right?
+251513	255296	Sam had just been on the Hard Fork podcast.
+255816	261440	He had taped an interview with Casey Newton and Kevin Roos, an interview which they had to can because he got fired two days later.
+261460	268325	He had been doing other appearances, like from all external appearances, this was totally business as usual for this company.
+268405	272528	And Sam was completely shocked when the board called him into a Google Meet
+273228	275691	which is also very funny and fired him.
+276151	284380	And for everything we understand about that Google Meet is they basically read him the statement, which is you have not been consistently candid with your communications to the board.
+284741	286803	And we don't think that we can trust you or the company.
+287063	287844	And that's all he got.
+287924	288906	That's all anyone has gotten.
+289446	297129	So, Alex, one of the things we all immediately started talking about was the ruthlessness of this statement.
+297830	310515	Normally, when you're getting rid of your CEO, even if you're essentially firing your CEO, you find a way to do this sort of slowly and nicely so that they get to step away to spend more time with their family or take some time off or whatever.
+310555	313176	And everybody pretends this is nice even when it's not.
+314497	315599	the opposite of that.
+315659	321447	I don't know that I can remember a thing that felt as much just like a knife of a blog post as this one.
+321929	322929	Yeah, this is ice cold.
+323249	329731	This is saying that you are firing someone in a fairly direct way for a situation like this.
+329912	337234	Usually, when it is a co-founder and it is someone as high-profile as Sam Altman, like Neil, I was saying, this will be very managed.
+337774	339174	It will phase out.
+340215	341655	He'll phase out of the company.
+341675	346597	It looks like he's wanting to pursue his passions, those kinds of words.
+347737	351618	No, we have knifed Sam Altman in the back in the night.
+351838	361940	And I mean, just like what Neil I was saying about this being business as usual, he was literally at a conference the day before and the night before even.
+362380	364681	And I'm told was like, I've got to go.
+364701	365501	I've got a meeting.
+365701	368301	And I think it was right when all this was starting.
+368341	375183	So he was literally on stage representing open AI with a bunch of artists in Oakland right before all this happened.
+375765	383353	Okay, so all this happens, Muram Arati, the CTO of OpenAI is promoted to interim CEO, and this is where we are.
+383453	387497	So then immediately, everybody starts scrambling to figure out what the hell is going on here.
+387857	389459	Basically, it was the vibe at the time.
+389940	394744	You guys start talking to people, and this one answer about
+395625	410054	What was going on starts to trickle out and this all feels like thousands of years ago But my my memory of this is like the the leading reason became a split between sort of two factions at open AI one that said
+410934	415416	Basically, we are a research project designed to make sure that we can make AI good for the world.
+415937	420859	And another side that said, this is a gigantic business that we're going to continue to run like a gigantic business.
+421139	426742	And that starts to percolate up as like, first sort of a leading like educated guess.
+426922	429304	And then we got some reporting that said that was part of the split.
+429404	437908	But how would you frame kind of what we learned in the early hours of like, what the actual fight was that led to Sam being fired?
+438188	439009	Eli, what was your sense?
+439409	446379	You know, I still think we don't know, especially because today, Ilya Sutskiver is saying that he regrets his actions.
+446880	453870	But the theory on Friday night, on Friday night, the theory that started bubbling out and the thing everyone started talking about was.
+454858	468149	that the nonprofit of open AI, which owns open AI, the commercial entity of which Sam is the CEO and Mike, the theory on Friday night that started bubbling out is that open AI is a nonprofit.
+468829	472833	That's the board of directors that nonprofit controls a commercial entity.
+473513	483620	of which Sam was the CEO and of which Microsoft is an investor, that board thought the commercial entity was moving too fast to commercialize LLMs, right?
+483700	490505	But they thought that the danger of the products was too high for how fast Sam was moving.
+491946	495307	There was some religious split, ideological split.
+495347	500469	That was all very hazy between the people who believed we were on a course to destroy humanity.
+501170	504991	And Sam, I've been saying, we're going to do a store for GPTs and you can make laundry buddy.
+505611	506352	That was out there.
+506612	508773	That was the conversation that was happening.
+508853	511454	Is Sam moving too fast with a dangerous technology?
+511794	512954	Did the board cannon for that?
+513474	514055	Is Ilya
+515235	522163	a religious believer in the idea that we need to be safer, which is what Open AI was founded to do this safely and make AGI.
+522683	525746	And the existence of that tension is not new, by the way.
+526167	530972	Whether or not that led to what has happened in the last four days, I think you're right, we still don't know.
+531052	536137	But the existence of that tension between those two sides is pretty real and well-established at this point.
+536317	541843	That tension is why we have Anthropic and why Elon is doing another AI company right now.
+542164	548091	Open AI has been consistently chaotic and consistently splitting itself apart really since the beginning.
+548611	553317	I just don't think anyone expected it to split from the top in such a dramatic way.
+554057	561300	And, Nila, I think maybe now is where it's probably good to explain who actually made this decision, because really this comes down to six people, right?
+561780	574305	And so we should go through exactly who the people were that made this decision, because increasingly it's becoming clear that now it's three people against the rest of open AI, which is just an insane position.
+574705	575306	Which is insane.
+575346	576988	Also, this is not a public company.
+577028	579230	So we don't have a record of these votes.
+579310	581793	The board has not said anything.
+582413	583855	We don't know if this was a unanimous vote.
+583935	585156	We don't have a majority.
+585296	587799	Like the reporting is that it's a majority vote.
+587819	592664	But because of what Ilya is saying today, it is actually really unclear what happened here.
+592824	593625	Well, here's what we know.
+594005	603154	Sam and Greg posted on X that Ilya, who is a co-founder, the chief scientist, really described to me by many as the brains of the operation.
+603894	607297	One of the most influential AI researchers in the world worked at DeepMind before.
+608058	612880	Kind of the AGI Doom person, I would say, the most prominent one inside the company.
+613560	616461	He was the one who told Sam and Greg that they were being fired by the board.
+616681	620302	At that time, the board was six people, including Sam and Greg.
+620482	621983	So Greg is the board chair.
+622303	626985	So the board chair found out he got fired from his own board, which is, I don't know how that works.
+627865	628225	No clue.
+628905	635588	What's clear, because we know Ilya was the one who communicated the message, is that the board needed a majority.
+635888	637248	So they needed four people.
+637768	643370	The other three members of the board, besides Ilya, are not open-eyed employees, right?
+643830	645671	So they got Ilya to side with them.
+646371	648872	kick Sam and Greg out without any notice.
+649273	657157	And now Ilya is saying after all of this, and after pretty much all of the company is set to resign and go to Microsoft with Sam, I actually regret this.
+657237	660979	And I also will go to Microsoft with Sam if we don't bring them back.
+661299	662260	Okay, we're going to get to that.
+662300	665922	Like, hey, Heath, unbelievable spoiler alert on this story.
+666002	666462	Like, come on.
+666482	666722	Sorry.
+667163	669084	Anybody listening to this is well spoiled.
+669164	672886	Like, if you're listening to an emergency episode of this, it's like, you're in it.
+673126	673566	That's fair.
+673747	673927	Yeah.
+674027	676069	No, I think where all this goes is very interesting.
+676109	679011	And I think that the ilia piece of this is actually super interesting.
+679031	682494	But just to get back to Friday night, because I think the timeline here actually matters a lot.
+682894	685456	So Friday night, we start learning the reasons it happened.
+685757	692602	I believe three high level open AI employees all resign right after this all goes down with Sam and Greg.
+693023	698968	Sam and Greg, as far as we can tell, and I'm curious if you guys have heard anything about this, immediately go to work spinning up a new
+699528	700148	AI company.
+700188	709915	I think it was very obvious to everybody immediately that they could just like have a company with an LLC and a name and people would throw billions of dollars of investment at it.
+710015	710195	Yeah.
+710475	719621	And so they started, the things that had been reported are that they were building, or they were thinking about building an AI chip company to rival Nvidia.
+719681	724604	There's been the thing with Sam and Johnny Ive and Masa Sun working on AI hardware.
+725084	727886	Sam's largest investor in Humane, which is forever hilarious.
+728306	737528	Did you guys learn anything about what the like counter idea might have been if we landed in the world of Friday night where they just went off and started their own company?
+737976	741997	No, and I think it's actually important to fill that in a little bit.
+742017	743637	I don't know if you've ever been fired.
+744257	750318	You know, the first thing you do is you plot your revenge, like very emotionally plot your revenge, right?
+750999	752439	And that is what was happening.
+752579	753899	That is what that communication was.
+753919	754859	We'll just start a new cut.
+754899	757660	Like, these are still people.
+757740	762821	They are very human people, as we discovered throughout their actions of the weekend.
+763661	765683	They might think they're the masters of the universe.
+765803	775851	They might be playing with $80 billion worth of shareholder value, but they are people, like just deeply emotional flawed people, just like everybody else.
+776211	780414	And so that first wave was very much a revenge wave.
+780454	783076	Like they had no notice, so they had necessarily no plan.
+783917	785058	So we'll start a new company.
+785078	786058	I can get the money.
+786559	787499	Everyone will come over.
+788159	794783	That was a burst of communication that I think was rooted in just the emotion of the moment.
+795203	797425	Then I think everyone got some sleep.
+798345	808251	And then we entered into Saturday where Alex and I broke the news that the investors were pressuring the open AI board to bring these folks back.
+809324	811307	which bled into today.
+811327	814452	And again, the absolutely unpredictable outcome of today.
+814832	821963	But I think the Friday night, we're just going to go start a new company was just the first heated emotion of that moment.
+822684	824246	And all the people around them
+824867	830475	We're very much saying, hold up, can we just control Z this thing and fix it?
+830795	835802	I heard my interest is just fixing it very directly from some people.
+835902	836984	I'm just trying to fix it.
+837024	837725	This is ridiculous.
+837785	838666	It should have never happened.
+839687	841310	I believe that, but also,
+841830	843991	Alex, tell me if you agree with me on this or not.
+844111	851673	I would assume that every venture capitalist on earth with Sam Altman's phone number called him on Friday night and said, tell me how to give you money for your next thing.
+852393	852773	For sure.
+853533	857735	So, I mean, is your point that they should have just left and not tried to?
+858055	866157	No, I think, Neal, I think you're right, but I also think the sort of parallel universe in which they went to start that company is not that far off.
+866417	868938	I'm not saying it was impossible, right?
+868998	872259	It was a very easily accomplished thing, I think you're correct.
+872299	875280	The money was flowing, the support was public, right?
+876180	885102	You saw the node COSLA who runs COSLA Ventures just publicly tweeting how much he supported, like the money was available from all of his existing investors, probably from Microsoft, right?
+885843	893065	But the thing that I'm just trying to underline here is that first wave on Friday night of we'll start our own thing was reflexive.
+893985	894866	It was not considered.
+895307	902134	And there's a big gap between we'll support you in whatever your next thing is and writing a check against the business plan.
+902714	907239	And that gap was as far as we can tell, but no one ever thought about crossing that chasm.
+907660	908260	OK, that's fair.
+908320	908520	All right.
+908601	913325	And so let's get to Saturday, because that's when stuff gets even weirder somehow.
+913546	915047	But first, we're going to take a quick break.
+915107	915528	We'll be right back.
+921300	925802	This podcast is brought to you by MetaQuest 3, the new mixed reality headset from Meta.
+926403	930485	Now you can expand your world in ways you never thought possible with the new MetaQuest 3.
+931085	939469	Put on the sleek, most powerful quest yet, and jump into fully immersive games, or blend virtual elements into your physical surroundings with mixed reality.
+939930	943412	Instantly go from watching to playing the part in your favorite show with Stranger Things VR.
+944412	949893	Live the action and really feel what it's like to step into the shoes of an assassin in Assassin's Creed Nexus.
+950554	955495	Even turn your couch into courtside seats with X Stadium and watch your favorite NBA team.
+955995	959936	With over 500 titles, it's easy to dive into whatever you're into.
+960416	962516	Expand your world with MetaQuest 3.
+962936	964077	See Child Safety Guidance online.
+964177	964837	Accounts for 10 and up.
+964917	967157	Certain apps, games and experiences may be suitable for a more mature audience.
+967458	968958	Learn more at meta.com.
+974634	976155	It's not just sci-fi anymore.
+976815	978416	Virtual reality for work is here.
+979136	980616	Mixed reality for work is here.
+981197	984678	And companies everywhere are using them both to transform how they operate.
+985498	989260	Architects are able to walk through buildings in mixed reality before they're even built.
+990000	994321	Co-workers from opposite ends of the earth are working shoulder to shoulder in VR spaces.
+994961	1001983	And all sorts of workers, from pilots to underwater welders, are getting trained in a virtual environment that's safer and more cost-effective.
+1002763	1003703	That's Meta for Work.
+1004343	1008944	Giving you VR and MR Tech to work smarter, closer, safer, together.
+1009664	1011145	Learn more at forework.meta.com.
+1020111	1020631	All right, we're back.
+1020952	1021772	So we've had the breakup.
+1022412	1025134	We've had the feelings, at least putting up angsty away messages.
+1025794	1032398	And then Saturday morning in the Bay Area somewhere, reconciliation begins.
+1032879	1035560	Neal, I take me through like the beginning of the story on Saturday.
+1036081	1046127	So what we had heard is the investors in OpenAI, which is mostly the commercial entity, they're putting a lot of pressure on, hey, we need to at least know what happened.
+1046167	1049249	We need to know your reasoning and we need to see if we can resolve this situation.
+1050109	1054171	That led to what I am guessing is yet more Google Meet calls.
+1054211	1060994	And I just want to keep highlighting this because I think we are all imagining some like very tense in-person meetings.
+1061634	1064355	And really, everyone was kind of just on the phone.
+1064375	1067997	I mean, we're all imagining the board room from succession, right?
+1068037	1069817	That's what's in everybody's mind as we go through this.
+1069857	1073799	Like a bunch of people sitting around a table raising their hands like with great intention.
+1074239	1075840	I'm saying, I don't even know if their cameras were on.
+1077221	1082403	This is a lot of people who are alone or in small groups of people in various places.
+1082904	1089227	Also, just very important note, $10 billion from Microsoft can still not make you use Teams.
+1093650	1095011	It is the most important.
+1095692	1097354	So we start hearing there's all this pressure.
+1097975	1101519	And Alex actually hears, hey, they might bring him back.
+1101579	1103342	So Alex and I just start calling everyone.
+1103782	1104363	And we broke this.
+1104463	1111592	We beat, I don't remember who we beat, but we beat someone by six minutes to the story that open as board is in negotiations to bring Altman back.
+1112132	1117276	And the most important piece of that story is he was ambivalent about it.
+1117556	1118597	That was reporting that we had.
+1119238	1123161	And his condition was, I'm not going to go work for these people again.
+1123201	1124662	They just fired me for no reason.
+1125222	1127284	They all have to go, which is understandable.
+1129245	1131547	Just an incredible condition to impose, right?
+1131927	1136491	So even from that moment, like we get this reporting, we break the story, we're like high fiving.
+1136651	1139953	I'm thinking and Alex is thinking, OK, to make this happen,
+1141054	1145835	four people have to publicly admit they made a mistake and resign in disgrace.
+1146455	1148516	Yeah, this is a high mountain.
+1149056	1150436	Who knows what will happen next.
+1150516	1151936	And then we spent the rest of the weekend on the phone.
+1152316	1160898	Yeah, Alex, what was your sense of whether that those were kind of real requests, whether that was again, Sam saying, I'd like to come back.
+1160978	1164699	Here's my rational list of what it will take or Sam being like,
+1165539	1166400	Fuck me fuck you.
+1167440	1176545	I think it was pretty clear that Sam had the upper hand as of like Saturday midday and then you know We had reported that they had a 5 p.m.
+1176625	1189632	Deadline to reach a deal with the board and The thing that was going to happen at that point was if it wasn't reached Sam's camp was telling the board there's gonna be mass resignations You know the entire company is behind us
+1189972	1191413	Is that why you think he had the upper hand?
+1191913	1195714	Just because it was so clear so quickly that OpenAI as a company was behind him?
+1196035	1203698	I think what everyone underestimated is the resolve of what ultimately was three people to not have him come back.
+1203738	1206659	And the thing is the board has been radio silent.
+1206819	1215403	Aside from that initial statement and an internal email that reiterated the statement to employees Sunday night, no one from the board has said anything publicly.
+1215423	1217004	They haven't elaborated on anything.
+1217104	1217744	So that's important.
+1218364	1222047	But it seemed like Sam was getting the upper hand the 5 p.m.
+1222087	1230475	Deadline passes on Saturday I'm at a party and Eli is like where I'm like stepping aside and you guys calling me and we're like What is happening?
+1230495	1241564	Does this mean mass resignations and then we look on x and I want to know it is deeply ironic that all of this has been playing out on x because it's all training data for grok and
+1241924	1245127	It's all training data for Elon's OpenAI competitor.
+1245567	1247489	This is all just a plan to poison Grock.
+1247529	1249710	You're like, Grock, how do I replace the CEO?
+1249731	1250951	And it's like, here's some ideas.
+1251232	1251472	Right.
+1252633	1256136	And it's also, there's a lot of deeper irony there with Elon we can get into at some point.
+1256176	1267445	But we saw this very public display of support for Sam Saturday night with pretty much everyone at OpenAI quote tweeting him with the heart emoji, right?
+1267845	1268065	Yeah.
+1268085	1271149	So Sam tweets something like, I love the open AI team.
+1271869	1278777	And as if they had coordinated this in a high school cafeteria, they all quote tweeted it with hearts.
+1278997	1280238	They all quote exactly.
+1280679	1282040	Major high school calf vibes.
+1282581	1284803	And then we're all thinking like,
+1285544	1290687	Okay, this maybe means he won, like we're all like Neil and I are scratching our heads.
+1291167	1297910	And then, you know, you wake up the next day and you realize that was a pressure campaign to show that Sam actually did have the backing of the whole company.
+1298290	1298491	Yeah.
+1298671	1302853	And so we had heard we, we had reported this 5pm deadline.
+1303694	1304034	5 p.m.
+1304615	1305096	Pacific.
+1305697	1307581	So that deadline just comes and goes.
+1307741	1311548	And we are scrambling, texting everyone in the universe, like, what is happening?
+1312069	1313211	This was a deadline, right?
+1313271	1313973	Everyone's supposed to quit.
+1313993	1315255	So they start tweeting the hearts.
+1316400	1323403	And it was actually very unclear whether this was, we're all quitting right now or Sam has won.
+1323663	1328625	And the online reaction was like instantly polarized, right?
+1328665	1331066	Binary reaction, like people are like, Sam's won, it's done.
+1331827	1334688	And our instinct was we would know, right?
+1334728	1336329	Like this is cryptic.
+1336389	1339170	We're doing high school away messages on X.
+1340532	1343794	It's absolutely not done, but we still don't know.
+1343894	1347017	And there was no further conversation after that.
+1347297	1350359	I was basically told, go to bed by a source.
+1350619	1351760	You're done for the day.
+1352260	1353021	We did this thing.
+1353341	1354342	It's the show of force.
+1354842	1355903	Everyone has to go to sleep now.
+1355983	1356864	We'll try again tomorrow.
+1357444	1359165	So that was the end of that day.
+1359185	1368352	I will say that my favorite conspiracy theory about this is that a misaligned AI was instructed to get people to watch the Las Vegas F1 Grand Prix.
+1368772	1370112	which started at 1AM Eastern.
+1370372	1371513	And I was like, this almost worked.
+1371633	1374073	Like I almost watched this, but I went to bed anyway.
+1374113	1378214	But then we woke up the next morning and we were, it was basically the status quo.
+1378655	1380875	Like this pressure campaign had not moved anything.
+1381595	1387557	We were told, Care Switcher has reported this, we were told that there was a noon Pacific deadline, which they blew right by.
+1387577	1391038	And then we reported again, there was another 5PM deadline.
+1391698	1393219	So my response to that was, is this real?
+1393299	1395160	You can only issue so many 5 p.m.
+1395200	1398282	ultimatums in your life, especially in sequential days.
+1398903	1400704	And I was told, yes, this is a hard deadline.
+1400744	1401505	It's real today.
+1401525	1403146	Either this happens at 5 p.m.
+1403166	1404847	today or we go in another path.
+1404967	1406308	And I thought, oh, man, how do I report this?
+1406708	1417035	And that is when Sam tweeted a picture of himself in the OpenAI offices holding a guest badge with the caption, first and last time I ever wear this badge.
+1417813	1422537	which is right, that's the ultimatum, like either this is getting fixed or I'm never coming back here again.
+1423038	1432006	And so that was when I felt comfortable saying, okay, it's like, we're doing the 5pm thing again, but I've got the guy like issuing the ultimatum, like this makes sense to me.
+1432677	1442062	Yeah, so then they then spent the whole day at OpenAI headquarters, hashing this out, basically having what I would assume is just the same fight over and over and over again.
+1442642	1447005	Sam trying to get the board to resign and disgrace and the board not wanting to resign and disgrace.
+1447385	1452107	There was some internal discussion there about picking the successors for the board.
+1452588	1460372	And the feeling, and we don't have this on the side, but it's a little shakier, but the feeling was people were suggesting candidates
+1461112	1465214	We heard a lot of what I would call like web 1.0 names.
+1466175	1467776	Sheryl Sandberg was in the mix.
+1467856	1470217	Like, right, Marissa Myers in the mix.
+1470257	1476861	Like all these like old heads who are from that era, you know, the adults, like we're going to hire adult supervision for Google.
+1477421	1479162	Like I was like, when is Eric Schmidt going to show up?
+1479622	1479782	Right.
+1479802	1482043	Like this is, these are the kinds of people we're talking about.
+1482223	1482444	Yeah.
+1482484	1490508	I mean, if you saw a very public web 1.0 tech executive, like tweeting support of Sam over the weekend, they were most likely trying to get on the board.
+1492116	1510421	Costolo just appears out of nowhere at one point Alex is like these people are just like in the firmament They're available to show up and like run your company for a couple years like Brett Taylor We should know I mean Brett Taylor with like the guy who literally just negotiated the sale of Twitter to Elon and the second most dramatic boardroom tech situation of the last decade.
+1510701	1510861	Yeah
+1511401	1516906	It's like, I keep calling him capital A adults, although no one here was acting like an adult.
+1517286	1519348	But they have that rep.
+1519728	1520849	Here's the cast of characters.
+1521270	1525133	And we had heard that Sachin Adela was mediating this conversation.
+1525153	1528516	And his point of view was he's pretty neutral.
+1528556	1529957	He just wants us over with.
+1530658	1533420	He needs a story to tell Microsoft shareholders on Monday morning.
+1534060	1539165	And that is Microsoft's interest, is stability for shareholders because they have this massive dependency on OpenAI.
+1539545	1549952	And that was one of the other things we should have said on Friday is that this all happened while the markets were still open on Friday and Microsoft's stock like tanked as a result of this happening.
+1549992	1555496	Like this was the biggest public blowback on this was going to come back to Microsoft in a pretty real way.
+1555816	1558998	So it makes sense that Nadella was going to be directly involved in doing this.
+1559198	1570281	And this ticking clock for Microsoft, I think it is underappreciated, but it was very real that Microsoft needed a crisp thing to say on Monday morning one way or another.
+1570922	1572462	So I always had it in the back of my head.
+1572482	1584846	Like at some point, this has to hit some kind of resolution because Microsoft will not demand it, but will just create a resolution to say to its shareholders.
+1585306	1587807	So there's all this like vetting of these like old heads.
+1588761	1590122	The OGs come to town, right?
+1590582	1594524	So the vibe I'm getting, and again, we don't actually know if everyone was all together.
+1594625	1596686	We know there was a lot of opening high people at that headquarters.
+1596706	1598907	We don't know if the board was there, actually.
+1599447	1605731	But the vibe we're getting is people are firing names at this board, and the board is not taking it seriously.
+1605751	1610174	And in the meantime, they are running their own search for a new CEO.
+1610874	1619699	because their interim CEO, Mira Muradi, has sided with Sam in the meantime, like publicly during the hearts campaign on Twitter, she's posting the heart, right?
+1619719	1621040	So she's, what a sentence.
+1621060	1621800	She's gone over.
+1621821	1624362	I mean, it is just absolutely childish.
+1624382	1628564	When I say these are very flawed human people, like we're going to win this fight by posting hearts on Twitter is
+1629804	1630704	I don't know what to say about it.
+1630884	1634806	One day I will like have had enough time to process that situation.
+1635286	1637907	But Mira has gone over to team Sam like very publicly.
+1637947	1646830	So the board needs a new CEO so that they're getting tossed these names and everyone is hoping that they will accept some names and resign and the new names will take over.
+1647191	1649611	And in the meantime, they are looking for a new CEO.
+1649832	1654873	And that is more or less what is happening all day Sunday as the 5 p.m.
+1654953	1655974	deadline draws ever near.
+1656474	1658576	So we hit that deadline, and again, nothing.
+1659157	1663221	Alex, where was your head at sort of the end of Sunday?
+1663321	1670428	Obviously, things get crazy several hours after that deadline, but where were we at the end of that day on Sunday, do you think?
+1670768	1676234	I was feeling like if we didn't have an announcement by five, it wasn't going to work out.
+1676594	1682516	And we were kind of getting back channel that by midday Sunday, things were taking a turn.
+1683117	1687738	And I didn't obviously no one could have expected what actually happened.
+1687758	1691580	This is the most like I was saying at the top bananas thing.
+1692160	1699263	But yeah, I think people were generally people who were close to the story were thinking like, OK, he made it very clear publicly.
+1699303	1701323	This is the last time he's setting foot in the building.
+1701844	1704925	The deadline has passed and it's not looking good.
+1705565	1711691	And there's a version of that that would have been a very dramatic weekend that ended in a relatively okay thing.
+1712051	1713472	Sam and Greg go off to do something.
+1713492	1715094	They bring some open AI people with them.
+1715454	1717016	Open AI hires a new CEO.
+1717536	1718977	Everybody moves on with their lives.
+1719718	1724342	There's a version of this where a lot of people had a lot of feelings, but it turns into a relatively normal
+1725183	1727165	corporate change, right?
+1727325	1729526	But that is obviously not what happened.
+1729907	1730067	Right.
+1730107	1732348	The negotiation to bring Sam Altman back has failed.
+1732388	1738433	Miramarati continues his interim CEO, Microsoft wishes Sam the best and says they'll support him in the new venture.
+1738453	1738913	Right.
+1739293	1744617	Again, the thing that needed to happen by Monday morning was a Microsoft statement to the market.
+1745338	1750461	And you really just cannot underestimate how much pressure that was applying to the situation.
+1750481	1750962	Yeah.
+1751582	1754243	So I'm expecting that statement, right?
+1754283	1755823	Like, here's the forcing function.
+1756324	1759545	We just have to be ready for this deal is going to fall apart.
+1760065	1766767	Microsoft is going to issue some holding statement and say, you know, we have a deal with open AI, everything's fine.
+1766827	1768567	Our contracts are rock solid.
+1769148	1774429	Brad Smith, our chief legal officer is a great lawyer, like whatever Microsoft is going to say to calm everybody down.
+1775090	1775910	But instead,
+1776670	1777932	Then all credit to Bloomberg.
+1778072	1794472	Bloomberg has a report, I don't know, 10 minutes before the thing actually happens that Mira Murati has hatched a plan as interim CEO to just rehire Sam and Greg as employees while the board is out calling people
+1795353	1797636	to interview them to be the CEO to replace Mira.
+1798097	1809892	And so what comes out in the end, I'll just fast forward a little bit, is Mira's plan was to quickly hire Sam and Greg as employees again, forcing the board to fire all three of them.
+1810771	1812733	which would have led to presumably lawsuit.
+1812753	1815074	Like who knows what was gonna happen in that moment.
+1815495	1822000	But that was the last swing of chaos when it was, I think obvious, oh, this just fell apart.
+1822540	1826764	Like we're not in a place where we're negotiating for people resigning.
+1826904	1833869	We're in a place where we're actively trying to create legal leverage for a lawsuit to come.
+1834450	1839274	And the board is actively trying to replace the person that they just hired to replace the CEO they fired.
+1840717	1849583	Sorry, it's just I know it's just like this whole thing has been such a blur for Nila and I like when you say all this out loud, it's just truly it's insane.
+1849823	1855907	And it does seem like I think your instinct there is right, Nila, that it's at that point what you're saying is I'm not going to quit.
+1856007	1856808	You have to fire me.
+1856928	1857048	Yeah.
+1857268	1863973	Like I'm going to cause so much trouble for you that you're going to have to get rid of me and then I'm going to have ammo kind of in whatever direction I want to use it.
+1864013	1864713	Yeah, exactly.
+1864873	1865053	Right.
+1865093	1869236	And the rehiring of Sam and Greg is like a deeply funny idea.
+1869536	1870537	Like you have to fire them again.
+1872258	1875439	Just like hire them as interns and watch them get fired.
+1875499	1875679	Yeah.
+1875819	1877620	And all three of them will then sue the board.
+1878361	1882562	And this is when Alex and I just started sending out hundreds of text messages.
+1882783	1883943	This is about to fall apart.
+1884383	1886124	Like this is absolutely about to fall apart.
+1886904	1888465	And it fell apart.
+1888565	1893708	And it fell apart in the weirdest way possible, which is the board just didn't even announce.
+1894748	1896329	Like the information broke.
+1896649	1896829	Yeah.
+1896889	1898429	This is just like coming from sources.
+1898449	1901010	Like the board has been in a bunker somewhere.
+1901130	1902851	They don't have a crisis comms team.
+1902871	1905072	They don't have like people speaking to the media.
+1905692	1913335	They've just been radio silent, but it starts to trickle out that they've actually named a new CEO and it's Emmett Shear.
+1913855	1916879	Not on my bingo card for who is going to be the next CEO of OpenAI.
+1917239	1918821	Not on anyone's bingo card.
+1919002	1922085	I think it's very safe to call this one out of left field.
+1922326	1929114	Emmett was the co-founder of Twitch, which is a live streaming video site, not an AI company.
+1929214	1932018	He's not seen as an AI leader.
+1932578	1942524	He posted shortly after it leaks that he was being named CEO that he got the call for the job that day and took a few hours to decide.
+1942884	1944605	And, you know, he's a free agent.
+1944705	1948147	He left Twitch earlier this year before mass layoffs.
+1948167	1949668	They've had two rounds of layoffs since.
+1950529	1960375	I can confidently say that the vibe within Amazon is that Twitch has been a, hmm, how should I put this, a shit show since Amazon bought it.
+1961195	1965597	And so no one really thought of Emmett, except the board, apparently.
+1965917	1977683	He is now the CEO, and he sent this note internally to employees saying that he was going to conduct an independent review of the board's actions, which is hilarious because he was hired by the board.
+1977703	1986507	I don't think that's possible to have an independent review when you are the person you're represented by, the people that you're reviewing.
+1986547	1987488	I mean, it just doesn't make sense.
+1987768	1994216	And also those people can callously fire you whenever they want, which they've proven twice in 48 hours that they can do.
+1994777	1995017	Okay.
+1995117	1997059	And we've been dancing around this, this whole time.
+1997120	2002566	I really think at this point, we should just say who these people are because at the end of the day, three people set all this in motion.
+2002766	2005790	Three people have caused open AI to explode from within.
+2005810	2007072	So should we just get into that?
+2007392	2007892	Yeah, do it.
+2008033	2008233	Okay.
+2008653	2012296	So OpenAI is very strange in how it's structured.
+2012436	2019822	And this is something that people haven't really been paying attention to because we've been so focused on just the success of their products with chat GPT.
+2020422	2022604	But OpenAI started as a nonprofit.
+2022884	2025587	And so it has this weird structure where there's a non-profit.
+2025827	2028050	There's a flow chart, which is like perfect for Dakota.
+2028070	2030853	There's a flow chart on OpenAI's website.
+2030993	2035319	And I challenge you to look at this flow chart and try to make sense of it.
+2035439	2036800	It is one of the most confusing.
+2036820	2038202	I just want to be very clear.
+2038242	2039223	You can definitely make sense of it.
+2039263	2041426	And they've drawn it to be more confusing than it actually is.
+2041886	2042166	Okay.
+2042466	2043127	That is 100% true.
+2043147	2046068	We're going to redraw the flow chart now because it's all different.
+2047308	2050309	So there's this nonprofit with this board that controls it.
+2050450	2057552	And importantly, the board of open AI does not have equity in open AI, which is a really wild thing.
+2057993	2060033	And so that's the context of the board.
+2060093	2063095	There's three of them really that aren't open AI people.
+2063255	2066496	So one of them is Adam D'Angelo, who is the CEO of Quora.
+2066576	2070918	He operates, I should note, a competing AI chatbot platform called Poe.
+2071378	2073199	He was the original CTO of Facebook.
+2073239	2075660	He's a known quantity in Silicon Valley.
+2075700	2077241	He's a really well-connected guy.
+2077721	2082143	There's a woman named Helen Toner who has ties to the effective autism movement.
+2082203	2083924	She used to work at Open Philanthropy.
+2084304	2085444	She's now at Georgetown.
+2085524	2087485	She funds AI safety stuff.
+2087585	2092648	She was actually on our stage at Code in September with Casey Newton talking about AI safety.
+2093328	2098630	And then the other one is a woman named Tasha McCauley, who is the former CEO of GeoSim Systems.
+2098670	2099491	And as far as I can tell,
+2100251	2102932	basically no one in tech that I know knows who she is.
+2103012	2109575	Okay, so that's the three people, and they are the ones who basically decide to bring Emma in.
+2109915	2120419	Because as we find out in the next turn of the story, the guy that we thought was the architect, the mastermind of all of this, flipped, which we can get into.
+2121058	2122819	Yeah, so, and it's a weird choice.
+2123319	2124180	And it's a weird choice.
+2124280	2130423	And also, openly, a decelerationist, which is a phrase that the AI community loves to use.
+2130443	2133605	Like, there's videos of him being like, this is terrifying.
+2134046	2135066	We should slow it down.
+2135366	2139469	This will extinguish all value in the cone of light, which is a real thing he says.
+2139709	2140029	Wow.
+2140269	2140949	It's amazing.
+2141310	2148054	And his point of view is we should slow AI innovation way down so we can get a handle on how dangerous it is.
+2149034	2150336	So you can see where the board is, right?
+2150356	2152739	This is the split that we've been hearing about the entire time.
+2153200	2157847	Open eyes playing with dangerous toys and Sam is running too fast.
+2158187	2161351	So we've brought an Emmett shear to slow this whole thing way down.
+2161792	2162593	Yeah, I think that's right.
+2162733	2165657	And then on the flip side, very early this morning,
+2166258	2180122	Neil, I think to your point correctly, to get something out before the stock markets opened, Microsoft announces it has hired Sam Altman and Greg Brockman to run, I believe the phrase is an AI research lab.
+2180342	2182462	An advanced AI research team is their statement.
+2182762	2185323	And can I just read the statement from Sacha Nadella?
+2185663	2186063	Please do.
+2186263	2188604	Which just contains magnitudes.
+2189344	2197446	We remain committed to our partnership with OpenAI, of confidence in our product roadmap, our ability to continue to innovate with everything we've announced at Microsoft Ignite, and in continuous support of customers and partners.
+2197826	2204508	We look forward to getting to know Emmett Shearer, and OAI's new leadership team, and working with them.
+2205068	2209049	And we are extremely excited to share the news at Sam Altman and Greg Rockman.
+2209089	2213690	Together with colleagues, we'll be joining Microsoft to lead a new advanced AI research team.
+2214010	2217731	We look forward to moving quickly to provide them with the resources needed for their success.
+2218311	2220553	In the journalism business, we call that bearing the lead.
+2222294	2231962	And importantly, Sam Altman is being given the title of CEO at Microsoft, which is inside Microsoft's corporate politics, like a big deal, right?
+2231982	2233783	There are not a lot of CEOs at Microsoft.
+2234103	2236065	Usually when they acquire a big company,
+2236505	2243147	They give those people the CEO title, so the person who leads LinkedIn as a CEO title, the person who leads GitHub as a CEO title.
+2243527	2246808	Phil Spencer is now the CEO of Microsoft Gaming.
+2247268	2248188	That's a big deal.
+2248208	2254210	You can go listen to that Decoder episode where I ask him what that title shift means, and it basically means he has his own resources.
+2255030	2257591	He's split off from Microsoft, your own P&L.
+2257651	2260612	Well, I was even listening to that episode.
+2261368	2269273	It basically means you have your own resources and you are more of a free agent to run your little division like it's own little company.
+2269313	2271054	So this is the arrangement Sam is getting.
+2271514	2276217	What I will tell you is I read this statement, especially that we look forward to getting to know Emma Cheer.
+2276717	2277198	They don't know.
+2277258	2278098	They don't know these people.
+2278118	2279779	They don't know what's going to happen with OpenAI.
+2279799	2280840	They don't know if Emma's going to turn
+2281300	2290725	the pace of innovation way down, but they are able to tell the market, hey, the face of the AI winning that we've been doing as Microsoft now works at Microsoft.
+2291105	2293486	Does Sam Altman have a contract to work at Microsoft yet?
+2293546	2294927	Like, I don't know the answer to that question.
+2295407	2309414	Does Sam Altman, the guy used to run Y Combinator who has his hands in every startup in the universe, has multiple investment funds, thinks of himself as the guy who was running the hottest AI startup in the world on its way to making AGI,
+2310194	2312215	Does he want to be a Microsoft employee?
+2312235	2315437	I truly do not know the answer to that question.
+2315837	2322801	I do know that this statement utterly worked to not only calm the market, but to send Microsoft stocks skyrocketing.
+2323381	2328544	And we are now sitting here saying, do we need to pre-write Microsoft is now a $3 trillion company?
+2329024	2332286	Because the stock as we are speaking is like to the moon.
+2333206	2334350	So this statement worked.
+2334531	2336396	I'm just cautioning everyone.
+2337078	2339385	This, in my view, is a holding statement.
+2339445	2340850	It's still a holding statement.
+2341124	2351091	Well, I think knowing what we know about Sunday, knowing that Microsoft really wanted to have this buttoned up by markets open, this was decided like, it was like almost like 1 a.m.
+2351151	2351611	Pacific.
+2351871	2352612	Yeah, I was asleep.
+2352892	2354733	Like, straight up, I was like, I'm done now.
+2354953	2357815	I'm thinking that, like, okay, surely nothing more is to come.
+2357955	2363179	And then, like, around one, Adele tweets this, and luckily Tom Warren is waking up in London and gets it on the site.
+2363639	2363979	It's nuts.
+2364159	2369243	But I think there's an important thing here, which is we know that Microsoft wanted to get this done.
+2370103	2376147	I have to imagine that whatever got Sam and Greg to agree to go to Microsoft was a lot.
+2376608	2380991	I imagine they had all the leverage in that situation because they'll just go do their own thing, right?
+2381031	2382092	Like we've all been saying.
+2382672	2391438	Microsoft cannot make it look like the company that they have literally bet their AI Azure future on is imploding before their very eyes.
+2392720	2399931	I have to imagine this is going to go down as one of the best packages ever from a big tech company to a team to come

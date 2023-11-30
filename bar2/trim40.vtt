@@ -1,0 +1,1733 @@
+WEBVTT
+
+00:00.709 --> 00:05.050
+[SPEAKER_06]: Support for the Verge Cast comes from Quest 3, the new Mixed Reality headset from Meta.
+
+00:05.451 --> 00:09.112
+[SPEAKER_06]: Now you can expand your world in ways you never thought possible with the new Meta Quest 3.
+
+00:09.572 --> 00:12.533
+[SPEAKER_06]: Meta sent us one to try and man does this thing look futuristic.
+
+00:12.893 --> 00:16.054
+[SPEAKER_06]: With over 500 titles, it's easy to dive into whatever you're into.
+
+00:16.394 --> 00:19.075
+[SPEAKER_06]: You can check out the new Meta 3 now, available for $4.99.
+
+00:19.595 --> 00:23.856
+[SPEAKER_06]: Learn more at meta.com, see child safety guidance online, accounts for 10 years or older.
+
+00:23.976 --> 00:27.277
+[SPEAKER_06]: Certain apps, games, and experiences may be suitable for a more mature audience.
+
+00:31.218 --> 00:32.759
+[SPEAKER_02]: It's not just sci-fi anymore.
+
+00:33.399 --> 00:35.000
+[SPEAKER_02]: Virtual reality for work is here.
+
+00:35.721 --> 00:37.202
+[SPEAKER_02]: Mixed reality for work is here.
+
+00:37.782 --> 00:41.284
+[SPEAKER_02]: And companies everywhere are using them both to transform how they operate.
+
+00:42.104 --> 00:45.867
+[SPEAKER_02]: Architects are able to walk through buildings in mixed reality before they're even built.
+
+00:46.607 --> 00:50.909
+[SPEAKER_02]: Co-workers from opposite ends of the earth are working shoulder to shoulder in VR spaces.
+
+00:51.549 --> 00:58.571
+[SPEAKER_02]: And all sorts of workers, from pilots to underwater welders, are getting trained in a virtual environment that's safer and more cost-effective.
+
+00:59.352 --> 01:00.292
+[SPEAKER_02]: That's Meta for Work.
+
+01:00.932 --> 01:05.534
+[SPEAKER_02]: Giving you VR and MR Tech to work smarter, closer, safer, together.
+
+01:06.274 --> 01:07.735
+[SPEAKER_02]: Learn more at forework.meta.com.
+
+01:23.422 --> 01:27.906
+[SPEAKER_03]: Hello, and welcome to an emergency crossover episode of The Vergecast and Decoder.
+
+01:28.727 --> 01:29.387
+[SPEAKER_03]: I'm Eli Patel.
+
+01:29.407 --> 01:30.348
+[SPEAKER_03]: I host both shows.
+
+01:30.368 --> 01:31.489
+[SPEAKER_03]: I've got David Pierce with me.
+
+01:32.010 --> 01:32.290
+[SPEAKER_03]: Hello.
+
+01:32.830 --> 01:33.491
+[SPEAKER_03]: Alex Heath is here.
+
+01:33.831 --> 01:34.212
+[SPEAKER_03]: Hello.
+
+01:34.232 --> 01:43.120
+[SPEAKER_03]: We are supposed to be off on both shows this week, but given what happened with OpenAI over the weekend, which is a story about org charts in many ways,
+
+01:43.760 --> 01:58.885
+[SPEAKER_03]: We had no choice but to do an emergency episode of our podcast, especially because Alex and I spent our weekends on the phone breaking a bunch of news about the discussions that led to what at this moment is Sam Altman, Microsoft employee.
+
+01:59.645 --> 02:04.348
+[SPEAKER_03]: which I can confidently say is an outcome no one thought would happen in this entire saga.
+
+02:04.748 --> 02:05.729
+[SPEAKER_03]: This is so bananas.
+
+02:06.670 --> 02:08.291
+[SPEAKER_03]: It is the whole thing is insane.
+
+02:08.611 --> 02:10.632
+[SPEAKER_03]: I am very much in the weeds on this whole thing.
+
+02:11.172 --> 02:14.995
+[SPEAKER_03]: So, David, can you help us get through what happened this weekend?
+
+02:15.015 --> 02:16.136
+[SPEAKER_03]: Because it is crazy.
+
+02:16.716 --> 02:16.956
+[SPEAKER_05]: Yes.
+
+02:17.076 --> 02:17.377
+[SPEAKER_05]: Okay.
+
+02:17.397 --> 02:24.003
+[SPEAKER_05]: So we're going to do the following in three parts because I think this is the only way to do it in a way that makes any sense.
+
+02:24.463 --> 02:35.133
+[SPEAKER_05]: The first thing we're going to do is just basically tell the story of the last 96 hours, starting from sort of midday Friday until where we are right now.
+
+02:35.253 --> 02:36.094
+[SPEAKER_05]: Things are still changing.
+
+02:36.134 --> 02:39.957
+[SPEAKER_05]: There's a non-zero chance that real news will break while we're recording this.
+
+02:40.277 --> 02:43.740
+[SPEAKER_05]: But we're going to get as close to the moment as we can as we do this.
+
+02:44.020 --> 02:45.401
+[SPEAKER_05]: And so I just want to tell the story all the way through.
+
+02:45.841 --> 02:48.703
+[SPEAKER_05]: Then I want to talk about the org charts piece that you're talking about.
+
+02:48.723 --> 02:52.046
+[SPEAKER_05]: We're going to talk about open AI as a company and how this happened.
+
+02:52.106 --> 02:55.629
+[SPEAKER_05]: And I know that's a thing you two have spent a lot of time trying to sort through.
+
+02:55.709 --> 02:58.151
+[SPEAKER_05]: And others have done really good reporting on over the course of this weekend.
+
+02:58.171 --> 02:59.312
+[SPEAKER_05]: So we're going to talk about that.
+
+02:59.332 --> 03:02.834
+[SPEAKER_05]: And then at the very end, I wrote this down as just winners and losers.
+
+03:03.775 --> 03:09.679
+[SPEAKER_05]: But I think it's useful to talk about kind of what this landscape looks like going forward.
+
+03:10.020 --> 03:13.202
+[SPEAKER_05]: So all of that said, let's just start at the beginning.
+
+03:13.422 --> 03:19.026
+[SPEAKER_05]: And the beginning is Friday afternoon, at least as far as I can tell, out of absolutely nowhere.
+
+03:19.566 --> 03:25.311
+[SPEAKER_05]: OpenAI publishes a blog post saying in basically as many words, we have fired Sam Altman.
+
+03:25.891 --> 03:26.492
+[SPEAKER_05]: as our CEO.
+
+03:26.932 --> 03:28.153
+[SPEAKER_05]: That's where all of this begins.
+
+03:28.333 --> 03:33.178
+[SPEAKER_05]: So the board fires him, they kick Greg Brockman off of the board.
+
+03:33.318 --> 03:35.860
+[SPEAKER_05]: He then a few hours later immediately quits.
+
+03:36.521 --> 03:42.126
+[SPEAKER_05]: And as far as we understand, and you two should correct me if I'm wrong, because I think the like minutes leading up to this are very important.
+
+03:42.767 --> 03:48.132
+[SPEAKER_05]: No one, including most people at OpenAI had any idea this was coming, correct?
+
+03:48.752 --> 03:52.836
+[SPEAKER_04]: It's not only that they didn't know it was coming, they were actually on a company holiday.
+
+03:53.136 --> 04:01.244
+[SPEAKER_04]: They were taking a day of rest because of all the craziest of the previous week, where they were announcing all these products that Sam was the face of.
+
+04:01.785 --> 04:07.811
+[SPEAKER_04]: Not only were they weren't prepared, but it was actually when they were all actively not looking at what was going on at the company.
+
+04:08.351 --> 04:11.473
+[SPEAKER_03]: And then externally, the company was totally business as usual, right?
+
+04:11.513 --> 04:15.296
+[SPEAKER_03]: Sam had just been on the Hard Fork podcast.
+
+04:15.816 --> 04:21.440
+[SPEAKER_03]: He had taped an interview with Casey Newton and Kevin Roos, an interview which they had to can because he got fired two days later.
+
+04:21.460 --> 04:28.325
+[SPEAKER_03]: He had been doing other appearances, like from all external appearances, this was totally business as usual for this company.
+
+04:28.405 --> 04:32.528
+[SPEAKER_03]: And Sam was completely shocked when the board called him into a Google Meet
+
+04:33.228 --> 04:35.691
+[SPEAKER_03]: which is also very funny and fired him.
+
+04:36.151 --> 04:44.380
+[SPEAKER_03]: And for everything we understand about that Google Meet is they basically read him the statement, which is you have not been consistently candid with your communications to the board.
+
+04:44.741 --> 04:46.803
+[SPEAKER_03]: And we don't think that we can trust you or the company.
+
+04:47.063 --> 04:47.844
+[SPEAKER_03]: And that's all he got.
+
+04:47.924 --> 04:48.906
+[SPEAKER_03]: That's all anyone has gotten.
+
+04:49.446 --> 04:57.129
+[SPEAKER_05]: So, Alex, one of the things we all immediately started talking about was the ruthlessness of this statement.
+
+04:57.830 --> 05:10.515
+[SPEAKER_05]: Normally, when you're getting rid of your CEO, even if you're essentially firing your CEO, you find a way to do this sort of slowly and nicely so that they get to step away to spend more time with their family or take some time off or whatever.
+
+05:10.555 --> 05:13.176
+[SPEAKER_05]: And everybody pretends this is nice even when it's not.
+
+05:14.497 --> 05:15.599
+[SPEAKER_05]: the opposite of that.
+
+05:15.659 --> 05:21.447
+[SPEAKER_05]: I don't know that I can remember a thing that felt as much just like a knife of a blog post as this one.
+
+05:21.929 --> 05:22.929
+[SPEAKER_04]: Yeah, this is ice cold.
+
+05:23.249 --> 05:29.731
+[SPEAKER_04]: This is saying that you are firing someone in a fairly direct way for a situation like this.
+
+05:29.912 --> 05:37.234
+[SPEAKER_04]: Usually, when it is a co-founder and it is someone as high-profile as Sam Altman, like Neil, I was saying, this will be very managed.
+
+05:37.774 --> 05:39.174
+[SPEAKER_04]: It will phase out.
+
+05:40.215 --> 05:41.655
+[SPEAKER_04]: He'll phase out of the company.
+
+05:41.675 --> 05:46.597
+[SPEAKER_04]: It looks like he's wanting to pursue his passions, those kinds of words.
+
+05:47.737 --> 05:51.618
+[SPEAKER_04]: No, we have knifed Sam Altman in the back in the night.
+
+05:51.838 --> 06:01.940
+[SPEAKER_04]: And I mean, just like what Neil I was saying about this being business as usual, he was literally at a conference the day before and the night before even.
+
+06:02.380 --> 06:04.681
+[SPEAKER_04]: And I'm told was like, I've got to go.
+
+06:04.701 --> 06:05.501
+[SPEAKER_04]: I've got a meeting.
+
+06:05.701 --> 06:08.301
+[SPEAKER_04]: And I think it was right when all this was starting.
+
+06:08.341 --> 06:15.183
+[SPEAKER_04]: So he was literally on stage representing open AI with a bunch of artists in Oakland right before all this happened.
+
+06:15.765 --> 06:23.353
+[SPEAKER_05]: Okay, so all this happens, Muram Arati, the CTO of OpenAI is promoted to interim CEO, and this is where we are.
+
+06:23.453 --> 06:27.497
+[SPEAKER_05]: So then immediately, everybody starts scrambling to figure out what the hell is going on here.
+
+06:27.857 --> 06:29.459
+[SPEAKER_05]: Basically, it was the vibe at the time.
+
+06:29.940 --> 06:34.744
+[SPEAKER_05]: You guys start talking to people, and this one answer about
+
+06:35.625 --> 06:50.054
+[SPEAKER_05]: What was going on starts to trickle out and this all feels like thousands of years ago But my my memory of this is like the the leading reason became a split between sort of two factions at open AI one that said
+
+06:50.934 --> 06:55.416
+[SPEAKER_05]: Basically, we are a research project designed to make sure that we can make AI good for the world.
+
+06:55.937 --> 07:00.859
+[SPEAKER_05]: And another side that said, this is a gigantic business that we're going to continue to run like a gigantic business.
+
+07:01.139 --> 07:06.742
+[SPEAKER_05]: And that starts to percolate up as like, first sort of a leading like educated guess.
+
+07:06.922 --> 07:09.304
+[SPEAKER_05]: And then we got some reporting that said that was part of the split.
+
+07:09.404 --> 07:17.908
+[SPEAKER_05]: But how would you frame kind of what we learned in the early hours of like, what the actual fight was that led to Sam being fired?
+
+07:18.188 --> 07:19.009
+[SPEAKER_05]: Eli, what was your sense?
+
+07:19.409 --> 07:26.379
+[SPEAKER_03]: You know, I still think we don't know, especially because today, Ilya Sutskiver is saying that he regrets his actions.
+
+07:26.880 --> 07:33.870
+[SPEAKER_03]: But the theory on Friday night, on Friday night, the theory that started bubbling out and the thing everyone started talking about was.
+
+07:34.858 --> 07:48.149
+[SPEAKER_03]: that the nonprofit of open AI, which owns open AI, the commercial entity of which Sam is the CEO and Mike, the theory on Friday night that started bubbling out is that open AI is a nonprofit.
+
+07:48.829 --> 07:52.833
+[SPEAKER_03]: That's the board of directors that nonprofit controls a commercial entity.
+
+07:53.513 --> 08:03.620
+[SPEAKER_03]: of which Sam was the CEO and of which Microsoft is an investor, that board thought the commercial entity was moving too fast to commercialize LLMs, right?
+
+08:03.700 --> 08:10.505
+[SPEAKER_03]: But they thought that the danger of the products was too high for how fast Sam was moving.
+
+08:11.946 --> 08:15.307
+[SPEAKER_03]: There was some religious split, ideological split.
+
+08:15.347 --> 08:20.469
+[SPEAKER_03]: That was all very hazy between the people who believed we were on a course to destroy humanity.
+
+08:21.170 --> 08:24.991
+[SPEAKER_03]: And Sam, I've been saying, we're going to do a store for GPTs and you can make laundry buddy.
+
+08:25.611 --> 08:26.352
+[SPEAKER_03]: That was out there.
+
+08:26.612 --> 08:28.773
+[SPEAKER_03]: That was the conversation that was happening.
+
+08:28.853 --> 08:31.454
+[SPEAKER_03]: Is Sam moving too fast with a dangerous technology?
+
+08:31.794 --> 08:32.954
+[SPEAKER_03]: Did the board cannon for that?
+
+08:33.474 --> 08:34.055
+[SPEAKER_03]: Is Ilya
+
+08:35.235 --> 08:42.163
+[SPEAKER_03]: a religious believer in the idea that we need to be safer, which is what Open AI was founded to do this safely and make AGI.
+
+08:42.683 --> 08:45.746
+[SPEAKER_05]: And the existence of that tension is not new, by the way.
+
+08:46.167 --> 08:50.972
+[SPEAKER_05]: Whether or not that led to what has happened in the last four days, I think you're right, we still don't know.
+
+08:51.052 --> 08:56.137
+[SPEAKER_05]: But the existence of that tension between those two sides is pretty real and well-established at this point.
+
+08:56.317 --> 09:01.843
+[SPEAKER_04]: That tension is why we have Anthropic and why Elon is doing another AI company right now.
+
+09:02.164 --> 09:08.091
+[SPEAKER_04]: Open AI has been consistently chaotic and consistently splitting itself apart really since the beginning.
+
+09:08.611 --> 09:13.317
+[SPEAKER_04]: I just don't think anyone expected it to split from the top in such a dramatic way.
+
+09:14.057 --> 09:21.300
+[SPEAKER_04]: And, Nila, I think maybe now is where it's probably good to explain who actually made this decision, because really this comes down to six people, right?
+
+09:21.780 --> 09:34.305
+[SPEAKER_04]: And so we should go through exactly who the people were that made this decision, because increasingly it's becoming clear that now it's three people against the rest of open AI, which is just an insane position.
+
+09:34.705 --> 09:35.306
+[SPEAKER_03]: Which is insane.
+
+09:35.346 --> 09:36.988
+[SPEAKER_03]: Also, this is not a public company.
+
+09:37.028 --> 09:39.230
+[SPEAKER_03]: So we don't have a record of these votes.
+
+09:39.310 --> 09:41.793
+[SPEAKER_03]: The board has not said anything.
+
+09:42.413 --> 09:43.855
+[SPEAKER_03]: We don't know if this was a unanimous vote.
+
+09:43.935 --> 09:45.156
+[SPEAKER_03]: We don't have a majority.
+
+09:45.296 --> 09:47.799
+[SPEAKER_03]: Like the reporting is that it's a majority vote.
+
+09:47.819 --> 09:52.664
+[SPEAKER_03]: But because of what Ilya is saying today, it is actually really unclear what happened here.
+
+09:52.824 --> 09:53.625
+[SPEAKER_04]: Well, here's what we know.
+
+09:54.005 --> 10:03.154
+[SPEAKER_04]: Sam and Greg posted on X that Ilya, who is a co-founder, the chief scientist, really described to me by many as the brains of the operation.
+
+10:03.894 --> 10:07.297
+[SPEAKER_04]: One of the most influential AI researchers in the world worked at DeepMind before.
+
+10:08.058 --> 10:12.880
+[SPEAKER_04]: Kind of the AGI Doom person, I would say, the most prominent one inside the company.
+
+10:13.560 --> 10:16.461
+[SPEAKER_04]: He was the one who told Sam and Greg that they were being fired by the board.
+
+10:16.681 --> 10:20.302
+[SPEAKER_04]: At that time, the board was six people, including Sam and Greg.
+
+10:20.482 --> 10:21.983
+[SPEAKER_04]: So Greg is the board chair.
+
+10:22.303 --> 10:26.985
+[SPEAKER_04]: So the board chair found out he got fired from his own board, which is, I don't know how that works.
+
+10:27.865 --> 10:28.225
+[SPEAKER_04]: No clue.
+
+10:28.905 --> 10:35.588
+[SPEAKER_04]: What's clear, because we know Ilya was the one who communicated the message, is that the board needed a majority.
+
+10:35.888 --> 10:37.248
+[SPEAKER_04]: So they needed four people.
+
+10:37.768 --> 10:43.370
+[SPEAKER_04]: The other three members of the board, besides Ilya, are not open-eyed employees, right?
+
+10:43.830 --> 10:45.671
+[SPEAKER_04]: So they got Ilya to side with them.
+
+10:46.371 --> 10:48.872
+[SPEAKER_04]: kick Sam and Greg out without any notice.
+
+10:49.273 --> 10:57.157
+[SPEAKER_04]: And now Ilya is saying after all of this, and after pretty much all of the company is set to resign and go to Microsoft with Sam, I actually regret this.
+
+10:57.237 --> 11:00.979
+[SPEAKER_04]: And I also will go to Microsoft with Sam if we don't bring them back.
+
+11:01.299 --> 11:02.260
+[SPEAKER_05]: Okay, we're going to get to that.
+
+11:02.300 --> 11:05.922
+[SPEAKER_05]: Like, hey, Heath, unbelievable spoiler alert on this story.
+
+11:06.002 --> 11:06.462
+[SPEAKER_03]: Like, come on.
+
+11:06.482 --> 11:06.722
+[SPEAKER_03]: Sorry.
+
+11:07.163 --> 11:09.084
+[SPEAKER_05]: Anybody listening to this is well spoiled.
+
+11:09.164 --> 11:12.886
+[SPEAKER_03]: Like, if you're listening to an emergency episode of this, it's like, you're in it.
+
+11:13.126 --> 11:13.566
+[SPEAKER_05]: That's fair.
+
+11:13.747 --> 11:13.927
+[SPEAKER_05]: Yeah.
+
+11:14.027 --> 11:16.069
+[SPEAKER_05]: No, I think where all this goes is very interesting.
+
+11:16.109 --> 11:19.011
+[SPEAKER_05]: And I think that the ilia piece of this is actually super interesting.
+
+11:19.031 --> 11:22.494
+[SPEAKER_05]: But just to get back to Friday night, because I think the timeline here actually matters a lot.
+
+11:22.894 --> 11:25.456
+[SPEAKER_05]: So Friday night, we start learning the reasons it happened.
+
+11:25.757 --> 11:32.602
+[SPEAKER_05]: I believe three high level open AI employees all resign right after this all goes down with Sam and Greg.
+
+11:33.023 --> 11:38.968
+[SPEAKER_05]: Sam and Greg, as far as we can tell, and I'm curious if you guys have heard anything about this, immediately go to work spinning up a new
+
+11:39.528 --> 11:40.148
+[SPEAKER_05]: AI company.
+
+11:40.188 --> 11:49.915
+[SPEAKER_05]: I think it was very obvious to everybody immediately that they could just like have a company with an LLC and a name and people would throw billions of dollars of investment at it.
+
+11:50.015 --> 11:50.195
+[SPEAKER_05]: Yeah.
+
+11:50.475 --> 11:59.621
+[SPEAKER_05]: And so they started, the things that had been reported are that they were building, or they were thinking about building an AI chip company to rival Nvidia.
+
+11:59.681 --> 12:04.604
+[SPEAKER_05]: There's been the thing with Sam and Johnny Ive and Masa Sun working on AI hardware.
+
+12:05.084 --> 12:07.886
+[SPEAKER_05]: Sam's largest investor in Humane, which is forever hilarious.
+
+12:08.306 --> 12:17.528
+[SPEAKER_05]: Did you guys learn anything about what the like counter idea might have been if we landed in the world of Friday night where they just went off and started their own company?
+
+12:17.976 --> 12:21.997
+[SPEAKER_03]: No, and I think it's actually important to fill that in a little bit.
+
+12:22.017 --> 12:23.637
+[SPEAKER_03]: I don't know if you've ever been fired.
+
+12:24.257 --> 12:30.318
+[SPEAKER_03]: You know, the first thing you do is you plot your revenge, like very emotionally plot your revenge, right?
+
+12:30.999 --> 12:32.439
+[SPEAKER_03]: And that is what was happening.
+
+12:32.579 --> 12:33.899
+[SPEAKER_03]: That is what that communication was.
+
+12:33.919 --> 12:34.859
+[SPEAKER_03]: We'll just start a new cut.
+
+12:34.899 --> 12:37.660
+[SPEAKER_03]: Like, these are still people.
+
+12:37.740 --> 12:42.821
+[SPEAKER_03]: They are very human people, as we discovered throughout their actions of the weekend.
+
+12:43.661 --> 12:45.683
+[SPEAKER_03]: They might think they're the masters of the universe.
+
+12:45.803 --> 12:55.851
+[SPEAKER_03]: They might be playing with $80 billion worth of shareholder value, but they are people, like just deeply emotional flawed people, just like everybody else.
+
+12:56.211 --> 13:00.414
+[SPEAKER_03]: And so that first wave was very much a revenge wave.
+
+13:00.454 --> 13:03.076
+[SPEAKER_03]: Like they had no notice, so they had necessarily no plan.
+
+13:03.917 --> 13:05.058
+[SPEAKER_03]: So we'll start a new company.
+
+13:05.078 --> 13:06.058
+[SPEAKER_03]: I can get the money.
+
+13:06.559 --> 13:07.499
+[SPEAKER_03]: Everyone will come over.
+
+13:08.159 --> 13:14.783
+[SPEAKER_03]: That was a burst of communication that I think was rooted in just the emotion of the moment.
+
+13:15.203 --> 13:17.425
+[SPEAKER_03]: Then I think everyone got some sleep.
+
+13:18.345 --> 13:28.251
+[SPEAKER_03]: And then we entered into Saturday where Alex and I broke the news that the investors were pressuring the open AI board to bring these folks back.
+
+13:29.324 --> 13:31.307
+[SPEAKER_03]: which bled into today.
+
+13:31.327 --> 13:34.452
+[SPEAKER_03]: And again, the absolutely unpredictable outcome of today.
+
+13:34.832 --> 13:41.963
+[SPEAKER_03]: But I think the Friday night, we're just going to go start a new company was just the first heated emotion of that moment.
+
+13:42.684 --> 13:44.246
+[SPEAKER_03]: And all the people around them
+
+13:44.867 --> 13:50.475
+[SPEAKER_03]: We're very much saying, hold up, can we just control Z this thing and fix it?
+
+13:50.795 --> 13:55.802
+[SPEAKER_03]: I heard my interest is just fixing it very directly from some people.
+
+13:55.902 --> 13:56.984
+[SPEAKER_03]: I'm just trying to fix it.
+
+13:57.024 --> 13:57.725
+[SPEAKER_03]: This is ridiculous.
+
+13:57.785 --> 13:58.666
+[SPEAKER_03]: It should have never happened.
+
+13:59.687 --> 14:01.310
+[SPEAKER_05]: I believe that, but also,
+
+14:01.830 --> 14:03.991
+[SPEAKER_05]: Alex, tell me if you agree with me on this or not.
+
+14:04.111 --> 14:11.673
+[SPEAKER_05]: I would assume that every venture capitalist on earth with Sam Altman's phone number called him on Friday night and said, tell me how to give you money for your next thing.
+
+14:12.393 --> 14:12.773
+[SPEAKER_04]: For sure.
+
+14:13.533 --> 14:17.735
+[SPEAKER_04]: So, I mean, is your point that they should have just left and not tried to?
+
+14:18.055 --> 14:26.157
+[SPEAKER_05]: No, I think, Neal, I think you're right, but I also think the sort of parallel universe in which they went to start that company is not that far off.
+
+14:26.417 --> 14:28.938
+[SPEAKER_03]: I'm not saying it was impossible, right?
+
+14:28.998 --> 14:32.259
+[SPEAKER_03]: It was a very easily accomplished thing, I think you're correct.
+
+14:32.299 --> 14:35.280
+[SPEAKER_03]: The money was flowing, the support was public, right?
+
+14:36.180 --> 14:45.102
+[SPEAKER_03]: You saw the node COSLA who runs COSLA Ventures just publicly tweeting how much he supported, like the money was available from all of his existing investors, probably from Microsoft, right?
+
+14:45.843 --> 14:53.065
+[SPEAKER_03]: But the thing that I'm just trying to underline here is that first wave on Friday night of we'll start our own thing was reflexive.
+
+14:53.985 --> 14:54.866
+[SPEAKER_03]: It was not considered.
+
+14:55.307 --> 15:02.134
+[SPEAKER_03]: And there's a big gap between we'll support you in whatever your next thing is and writing a check against the business plan.
+
+15:02.714 --> 15:07.239
+[SPEAKER_03]: And that gap was as far as we can tell, but no one ever thought about crossing that chasm.
+
+15:07.660 --> 15:08.260
+[SPEAKER_05]: OK, that's fair.
+
+15:08.320 --> 15:08.520
+[SPEAKER_05]: All right.
+
+15:08.601 --> 15:13.325
+[SPEAKER_05]: And so let's get to Saturday, because that's when stuff gets even weirder somehow.
+
+15:13.546 --> 15:15.047
+[SPEAKER_05]: But first, we're going to take a quick break.
+
+15:15.107 --> 15:15.528
+[SPEAKER_05]: We'll be right back.
+
+15:21.300 --> 15:25.802
+[SPEAKER_01]: This podcast is brought to you by MetaQuest 3, the new mixed reality headset from Meta.
+
+15:26.403 --> 15:30.485
+[SPEAKER_01]: Now you can expand your world in ways you never thought possible with the new MetaQuest 3.
+
+15:31.085 --> 15:39.469
+[SPEAKER_01]: Put on the sleek, most powerful quest yet, and jump into fully immersive games, or blend virtual elements into your physical surroundings with mixed reality.
+
+15:39.930 --> 15:43.412
+[SPEAKER_01]: Instantly go from watching to playing the part in your favorite show with Stranger Things VR.
+
+15:44.412 --> 15:49.893
+[SPEAKER_01]: Live the action and really feel what it's like to step into the shoes of an assassin in Assassin's Creed Nexus.
+
+15:50.554 --> 15:55.495
+[SPEAKER_01]: Even turn your couch into courtside seats with X Stadium and watch your favorite NBA team.
+
+15:55.995 --> 15:59.936
+[SPEAKER_01]: With over 500 titles, it's easy to dive into whatever you're into.
+
+16:00.416 --> 16:02.516
+[SPEAKER_01]: Expand your world with MetaQuest 3.
+
+16:02.936 --> 16:04.077
+[SPEAKER_01]: See Child Safety Guidance online.
+
+16:04.177 --> 16:04.837
+[SPEAKER_01]: Accounts for 10 and up.
+
+16:04.917 --> 16:07.157
+[SPEAKER_01]: Certain apps, games and experiences may be suitable for a more mature audience.
+
+16:07.458 --> 16:08.958
+[SPEAKER_01]: Learn more at meta.com.
+
+16:14.634 --> 16:16.155
+[SPEAKER_02]: It's not just sci-fi anymore.
+
+16:16.815 --> 16:18.416
+[SPEAKER_02]: Virtual reality for work is here.
+
+16:19.136 --> 16:20.616
+[SPEAKER_02]: Mixed reality for work is here.
+
+16:21.197 --> 16:24.678
+[SPEAKER_02]: And companies everywhere are using them both to transform how they operate.
+
+16:25.498 --> 16:29.260
+[SPEAKER_02]: Architects are able to walk through buildings in mixed reality before they're even built.
+
+16:30.000 --> 16:34.321
+[SPEAKER_02]: Co-workers from opposite ends of the earth are working shoulder to shoulder in VR spaces.
+
+16:34.961 --> 16:41.983
+[SPEAKER_02]: And all sorts of workers, from pilots to underwater welders, are getting trained in a virtual environment that's safer and more cost-effective.
+
+16:42.763 --> 16:43.703
+[SPEAKER_02]: That's Meta for Work.
+
+16:44.343 --> 16:48.944
+[SPEAKER_02]: Giving you VR and MR Tech to work smarter, closer, safer, together.
+
+16:49.664 --> 16:51.145
+[SPEAKER_02]: Learn more at forework.meta.com.
+
+17:00.111 --> 17:00.631
+[SPEAKER_05]: All right, we're back.
+
+17:00.952 --> 17:01.772
+[SPEAKER_05]: So we've had the breakup.
+
+17:02.412 --> 17:05.134
+[SPEAKER_05]: We've had the feelings, at least putting up angsty away messages.
+
+17:05.794 --> 17:12.398
+[SPEAKER_05]: And then Saturday morning in the Bay Area somewhere, reconciliation begins.
+
+17:12.879 --> 17:15.560
+[SPEAKER_05]: Neal, I take me through like the beginning of the story on Saturday.
+
+17:16.081 --> 17:26.127
+[SPEAKER_03]: So what we had heard is the investors in OpenAI, which is mostly the commercial entity, they're putting a lot of pressure on, hey, we need to at least know what happened.
+
+17:26.167 --> 17:29.249
+[SPEAKER_03]: We need to know your reasoning and we need to see if we can resolve this situation.
+
+17:30.109 --> 17:34.171
+[SPEAKER_03]: That led to what I am guessing is yet more Google Meet calls.
+
+17:34.211 --> 17:40.994
+[SPEAKER_03]: And I just want to keep highlighting this because I think we are all imagining some like very tense in-person meetings.
+
+17:41.634 --> 17:44.355
+[SPEAKER_03]: And really, everyone was kind of just on the phone.
+
+17:44.375 --> 17:47.997
+[SPEAKER_05]: I mean, we're all imagining the board room from succession, right?
+
+17:48.037 --> 17:49.817
+[SPEAKER_05]: That's what's in everybody's mind as we go through this.
+
+17:49.857 --> 17:53.799
+[SPEAKER_05]: Like a bunch of people sitting around a table raising their hands like with great intention.
+
+17:54.239 --> 17:55.840
+[SPEAKER_03]: I'm saying, I don't even know if their cameras were on.
+
+17:57.221 --> 18:02.403
+[SPEAKER_03]: This is a lot of people who are alone or in small groups of people in various places.
+
+18:02.904 --> 18:09.227
+[SPEAKER_04]: Also, just very important note, $10 billion from Microsoft can still not make you use Teams.
+
+18:13.650 --> 18:15.011
+[SPEAKER_03]: It is the most important.
+
+18:15.692 --> 18:17.354
+[SPEAKER_03]: So we start hearing there's all this pressure.
+
+18:17.975 --> 18:21.519
+[SPEAKER_03]: And Alex actually hears, hey, they might bring him back.
+
+18:21.579 --> 18:23.342
+[SPEAKER_03]: So Alex and I just start calling everyone.
+
+18:23.782 --> 18:24.363
+[SPEAKER_03]: And we broke this.
+
+18:24.463 --> 18:31.592
+[SPEAKER_03]: We beat, I don't remember who we beat, but we beat someone by six minutes to the story that open as board is in negotiations to bring Altman back.
+
+18:32.132 --> 18:37.276
+[SPEAKER_03]: And the most important piece of that story is he was ambivalent about it.
+
+18:37.556 --> 18:38.597
+[SPEAKER_03]: That was reporting that we had.
+
+18:39.238 --> 18:43.161
+[SPEAKER_03]: And his condition was, I'm not going to go work for these people again.
+
+18:43.201 --> 18:44.662
+[SPEAKER_03]: They just fired me for no reason.
+
+18:45.222 --> 18:47.284
+[SPEAKER_03]: They all have to go, which is understandable.
+
+18:49.245 --> 18:51.547
+[SPEAKER_03]: Just an incredible condition to impose, right?
+
+18:51.927 --> 18:56.491
+[SPEAKER_03]: So even from that moment, like we get this reporting, we break the story, we're like high fiving.
+
+18:56.651 --> 18:59.953
+[SPEAKER_03]: I'm thinking and Alex is thinking, OK, to make this happen,
+
+19:01.054 --> 19:05.835
+[SPEAKER_03]: four people have to publicly admit they made a mistake and resign in disgrace.
+
+19:06.455 --> 19:08.516
+[SPEAKER_03]: Yeah, this is a high mountain.
+
+19:09.056 --> 19:10.436
+[SPEAKER_03]: Who knows what will happen next.
+
+19:10.516 --> 19:11.936
+[SPEAKER_03]: And then we spent the rest of the weekend on the phone.
+
+19:12.316 --> 19:20.898
+[SPEAKER_05]: Yeah, Alex, what was your sense of whether that those were kind of real requests, whether that was again, Sam saying, I'd like to come back.
+
+19:20.978 --> 19:24.699
+[SPEAKER_05]: Here's my rational list of what it will take or Sam being like,
+
+19:25.539 --> 19:26.400
+[SPEAKER_05]: Fuck me fuck you.
+
+19:27.440 --> 19:36.545
+[SPEAKER_04]: I think it was pretty clear that Sam had the upper hand as of like Saturday midday and then you know We had reported that they had a 5 p.m.
+
+19:36.625 --> 19:49.632
+[SPEAKER_04]: Deadline to reach a deal with the board and The thing that was going to happen at that point was if it wasn't reached Sam's camp was telling the board there's gonna be mass resignations You know the entire company is behind us
+
+19:49.972 --> 19:51.413
+[SPEAKER_05]: Is that why you think he had the upper hand?
+
+19:51.913 --> 19:55.714
+[SPEAKER_05]: Just because it was so clear so quickly that OpenAI as a company was behind him?
+
+19:56.035 --> 20:03.698
+[SPEAKER_04]: I think what everyone underestimated is the resolve of what ultimately was three people to not have him come back.
+
+20:03.738 --> 20:06.659
+[SPEAKER_04]: And the thing is the board has been radio silent.
+
+20:06.819 --> 20:15.403
+[SPEAKER_04]: Aside from that initial statement and an internal email that reiterated the statement to employees Sunday night, no one from the board has said anything publicly.
+
+20:15.423 --> 20:17.004
+[SPEAKER_04]: They haven't elaborated on anything.
+
+20:17.104 --> 20:17.744
+[SPEAKER_04]: So that's important.
+
+20:18.364 --> 20:22.047
+[SPEAKER_04]: But it seemed like Sam was getting the upper hand the 5 p.m.
+
+20:22.087 --> 20:30.475
+[SPEAKER_04]: Deadline passes on Saturday I'm at a party and Eli is like where I'm like stepping aside and you guys calling me and we're like What is happening?
+
+20:30.495 --> 20:41.564
+[SPEAKER_04]: Does this mean mass resignations and then we look on x and I want to know it is deeply ironic that all of this has been playing out on x because it's all training data for grok and
+
+20:41.924 --> 20:45.127
+[SPEAKER_04]: It's all training data for Elon's OpenAI competitor.
+
+20:45.567 --> 20:47.489
+[SPEAKER_03]: This is all just a plan to poison Grock.
+
+20:47.529 --> 20:49.710
+[SPEAKER_04]: You're like, Grock, how do I replace the CEO?
+
+20:49.731 --> 20:50.951
+[SPEAKER_04]: And it's like, here's some ideas.
+
+20:51.232 --> 20:51.472
+[SPEAKER_04]: Right.
+
+20:52.633 --> 20:56.136
+[SPEAKER_04]: And it's also, there's a lot of deeper irony there with Elon we can get into at some point.
+
+20:56.176 --> 21:07.445
+[SPEAKER_04]: But we saw this very public display of support for Sam Saturday night with pretty much everyone at OpenAI quote tweeting him with the heart emoji, right?
+
+21:07.845 --> 21:08.065
+[SPEAKER_05]: Yeah.
+
+21:08.085 --> 21:11.149
+[SPEAKER_05]: So Sam tweets something like, I love the open AI team.
+
+21:11.869 --> 21:18.777
+[SPEAKER_05]: And as if they had coordinated this in a high school cafeteria, they all quote tweeted it with hearts.
+
+21:18.997 --> 21:20.238
+[SPEAKER_04]: They all quote exactly.
+
+21:20.679 --> 21:22.040
+[SPEAKER_04]: Major high school calf vibes.
+
+21:22.581 --> 21:24.803
+[SPEAKER_04]: And then we're all thinking like,
+
+21:25.544 --> 21:30.687
+[SPEAKER_04]: Okay, this maybe means he won, like we're all like Neil and I are scratching our heads.
+
+21:31.167 --> 21:37.910
+[SPEAKER_04]: And then, you know, you wake up the next day and you realize that was a pressure campaign to show that Sam actually did have the backing of the whole company.
+
+21:38.290 --> 21:38.491
+[SPEAKER_03]: Yeah.
+
+21:38.671 --> 21:42.853
+[SPEAKER_03]: And so we had heard we, we had reported this 5pm deadline.
+
+21:43.694 --> 21:44.034
+[SPEAKER_03]: 5 p.m.
+
+21:44.615 --> 21:45.096
+[SPEAKER_03]: Pacific.
+
+21:45.697 --> 21:47.581
+[SPEAKER_03]: So that deadline just comes and goes.
+
+21:47.741 --> 21:51.548
+[SPEAKER_03]: And we are scrambling, texting everyone in the universe, like, what is happening?
+
+21:52.069 --> 21:53.211
+[SPEAKER_03]: This was a deadline, right?
+
+21:53.271 --> 21:53.973
+[SPEAKER_03]: Everyone's supposed to quit.
+
+21:53.993 --> 21:55.255
+[SPEAKER_03]: So they start tweeting the hearts.
+
+21:56.400 --> 22:03.403
+[SPEAKER_03]: And it was actually very unclear whether this was, we're all quitting right now or Sam has won.
+
+22:03.663 --> 22:08.625
+[SPEAKER_03]: And the online reaction was like instantly polarized, right?
+
+22:08.665 --> 22:11.066
+[SPEAKER_03]: Binary reaction, like people are like, Sam's won, it's done.
+
+22:11.827 --> 22:14.688
+[SPEAKER_03]: And our instinct was we would know, right?
+
+22:14.728 --> 22:16.329
+[SPEAKER_03]: Like this is cryptic.
+
+22:16.389 --> 22:19.170
+[SPEAKER_03]: We're doing high school away messages on X.
+
+22:20.532 --> 22:23.794
+[SPEAKER_03]: It's absolutely not done, but we still don't know.
+
+22:23.894 --> 22:27.017
+[SPEAKER_03]: And there was no further conversation after that.
+
+22:27.297 --> 22:30.359
+[SPEAKER_03]: I was basically told, go to bed by a source.
+
+22:30.619 --> 22:31.760
+[SPEAKER_03]: You're done for the day.
+
+22:32.260 --> 22:33.021
+[SPEAKER_03]: We did this thing.
+
+22:33.341 --> 22:34.342
+[SPEAKER_03]: It's the show of force.
+
+22:34.842 --> 22:35.903
+[SPEAKER_03]: Everyone has to go to sleep now.
+
+22:35.983 --> 22:36.864
+[SPEAKER_03]: We'll try again tomorrow.
+
+22:37.444 --> 22:39.165
+[SPEAKER_03]: So that was the end of that day.
+
+22:39.185 --> 22:48.352
+[SPEAKER_03]: I will say that my favorite conspiracy theory about this is that a misaligned AI was instructed to get people to watch the Las Vegas F1 Grand Prix.
+
+22:48.772 --> 22:50.112
+[SPEAKER_03]: which started at 1AM Eastern.
+
+22:50.372 --> 22:51.513
+[SPEAKER_03]: And I was like, this almost worked.
+
+22:51.633 --> 22:54.073
+[SPEAKER_03]: Like I almost watched this, but I went to bed anyway.
+
+22:54.113 --> 22:58.214
+[SPEAKER_03]: But then we woke up the next morning and we were, it was basically the status quo.
+
+22:58.655 --> 23:00.875
+[SPEAKER_03]: Like this pressure campaign had not moved anything.
+
+23:01.595 --> 23:07.557
+[SPEAKER_03]: We were told, Care Switcher has reported this, we were told that there was a noon Pacific deadline, which they blew right by.
+
+23:07.577 --> 23:11.038
+[SPEAKER_03]: And then we reported again, there was another 5PM deadline.
+
+23:11.698 --> 23:13.219
+[SPEAKER_03]: So my response to that was, is this real?
+
+23:13.299 --> 23:15.160
+[SPEAKER_03]: You can only issue so many 5 p.m.
+
+23:15.200 --> 23:18.282
+[SPEAKER_03]: ultimatums in your life, especially in sequential days.
+
+23:18.903 --> 23:20.704
+[SPEAKER_03]: And I was told, yes, this is a hard deadline.
+
+23:20.744 --> 23:21.505
+[SPEAKER_03]: It's real today.
+
+23:21.525 --> 23:23.146
+[SPEAKER_03]: Either this happens at 5 p.m.
+
+23:23.166 --> 23:24.847
+[SPEAKER_03]: today or we go in another path.
+
+23:24.967 --> 23:26.308
+[SPEAKER_03]: And I thought, oh, man, how do I report this?
+
+23:26.708 --> 23:37.035
+[SPEAKER_03]: And that is when Sam tweeted a picture of himself in the OpenAI offices holding a guest badge with the caption, first and last time I ever wear this badge.
+
+23:37.813 --> 23:42.537
+[SPEAKER_03]: which is right, that's the ultimatum, like either this is getting fixed or I'm never coming back here again.
+
+23:43.038 --> 23:52.006
+[SPEAKER_03]: And so that was when I felt comfortable saying, okay, it's like, we're doing the 5pm thing again, but I've got the guy like issuing the ultimatum, like this makes sense to me.
+
+23:52.677 --> 24:02.062
+[SPEAKER_05]: Yeah, so then they then spent the whole day at OpenAI headquarters, hashing this out, basically having what I would assume is just the same fight over and over and over again.
+
+24:02.642 --> 24:07.005
+[SPEAKER_05]: Sam trying to get the board to resign and disgrace and the board not wanting to resign and disgrace.
+
+24:07.385 --> 24:12.107
+[SPEAKER_03]: There was some internal discussion there about picking the successors for the board.
+
+24:12.588 --> 24:20.372
+[SPEAKER_03]: And the feeling, and we don't have this on the side, but it's a little shakier, but the feeling was people were suggesting candidates
+
+24:21.112 --> 24:25.214
+[SPEAKER_03]: We heard a lot of what I would call like web 1.0 names.
+
+24:26.175 --> 24:27.776
+[SPEAKER_03]: Sheryl Sandberg was in the mix.
+
+24:27.856 --> 24:30.217
+[SPEAKER_03]: Like, right, Marissa Myers in the mix.
+
+24:30.257 --> 24:36.861
+[SPEAKER_03]: Like all these like old heads who are from that era, you know, the adults, like we're going to hire adult supervision for Google.
+
+24:37.421 --> 24:39.162
+[SPEAKER_03]: Like I was like, when is Eric Schmidt going to show up?
+
+24:39.622 --> 24:39.782
+[SPEAKER_03]: Right.
+
+24:39.802 --> 24:42.043
+[SPEAKER_03]: Like this is, these are the kinds of people we're talking about.
+
+24:42.223 --> 24:42.444
+[SPEAKER_04]: Yeah.
+
+24:42.484 --> 24:50.508
+[SPEAKER_04]: I mean, if you saw a very public web 1.0 tech executive, like tweeting support of Sam over the weekend, they were most likely trying to get on the board.
+
+24:52.116 --> 25:10.421
+[SPEAKER_04]: Costolo just appears out of nowhere at one point Alex is like these people are just like in the firmament They're available to show up and like run your company for a couple years like Brett Taylor We should know I mean Brett Taylor with like the guy who literally just negotiated the sale of Twitter to Elon and the second most dramatic boardroom tech situation of the last decade.
+
+25:10.701 --> 25:10.861
+[SPEAKER_04]: Yeah
+
+25:11.401 --> 25:16.906
+[SPEAKER_03]: It's like, I keep calling him capital A adults, although no one here was acting like an adult.
+
+25:17.286 --> 25:19.348
+[SPEAKER_03]: But they have that rep.
+
+25:19.728 --> 25:20.849
+[SPEAKER_03]: Here's the cast of characters.
+
+25:21.270 --> 25:25.133
+[SPEAKER_03]: And we had heard that Sachin Adela was mediating this conversation.
+
+25:25.153 --> 25:28.516
+[SPEAKER_03]: And his point of view was he's pretty neutral.
+
+25:28.556 --> 25:29.957
+[SPEAKER_03]: He just wants us over with.
+
+25:30.658 --> 25:33.420
+[SPEAKER_03]: He needs a story to tell Microsoft shareholders on Monday morning.
+
+25:34.060 --> 25:39.165
+[SPEAKER_03]: And that is Microsoft's interest, is stability for shareholders because they have this massive dependency on OpenAI.
+
+25:39.545 --> 25:49.952
+[SPEAKER_05]: And that was one of the other things we should have said on Friday is that this all happened while the markets were still open on Friday and Microsoft's stock like tanked as a result of this happening.
+
+25:49.992 --> 25:55.496
+[SPEAKER_05]: Like this was the biggest public blowback on this was going to come back to Microsoft in a pretty real way.
+
+25:55.816 --> 25:58.998
+[SPEAKER_05]: So it makes sense that Nadella was going to be directly involved in doing this.
+
+25:59.198 --> 26:10.281
+[SPEAKER_03]: And this ticking clock for Microsoft, I think it is underappreciated, but it was very real that Microsoft needed a crisp thing to say on Monday morning one way or another.
+
+26:10.922 --> 26:12.462
+[SPEAKER_03]: So I always had it in the back of my head.
+
+26:12.482 --> 26:24.846
+[SPEAKER_03]: Like at some point, this has to hit some kind of resolution because Microsoft will not demand it, but will just create a resolution to say to its shareholders.
+
+26:25.306 --> 26:27.807
+[SPEAKER_03]: So there's all this like vetting of these like old heads.
+
+26:28.761 --> 26:30.122
+[SPEAKER_03]: The OGs come to town, right?
+
+26:30.582 --> 26:34.524
+[SPEAKER_03]: So the vibe I'm getting, and again, we don't actually know if everyone was all together.
+
+26:34.625 --> 26:36.686
+[SPEAKER_03]: We know there was a lot of opening high people at that headquarters.
+
+26:36.706 --> 26:38.907
+[SPEAKER_03]: We don't know if the board was there, actually.
+
+26:39.447 --> 26:45.731
+[SPEAKER_03]: But the vibe we're getting is people are firing names at this board, and the board is not taking it seriously.
+
+26:45.751 --> 26:50.174
+[SPEAKER_03]: And in the meantime, they are running their own search for a new CEO.
+
+26:50.874 --> 26:59.699
+[SPEAKER_03]: because their interim CEO, Mira Muradi, has sided with Sam in the meantime, like publicly during the hearts campaign on Twitter, she's posting the heart, right?
+
+26:59.719 --> 27:01.040
+[SPEAKER_03]: So she's, what a sentence.
+
+27:01.060 --> 27:01.800
+[SPEAKER_00]: She's gone over.
+
+27:01.821 --> 27:04.362
+[SPEAKER_03]: I mean, it is just absolutely childish.
+
+27:04.382 --> 27:08.564
+[SPEAKER_03]: When I say these are very flawed human people, like we're going to win this fight by posting hearts on Twitter is
+
+27:09.804 --> 27:10.704
+[SPEAKER_03]: I don't know what to say about it.
+
+27:10.884 --> 27:14.806
+[SPEAKER_03]: One day I will like have had enough time to process that situation.
+
+27:15.286 --> 27:17.907
+[SPEAKER_03]: But Mira has gone over to team Sam like very publicly.
+
+27:17.947 --> 27:26.830
+[SPEAKER_03]: So the board needs a new CEO so that they're getting tossed these names and everyone is hoping that they will accept some names and resign and the new names will take over.
+
+27:27.191 --> 27:29.611
+[SPEAKER_03]: And in the meantime, they are looking for a new CEO.
+
+27:29.832 --> 27:34.873
+[SPEAKER_03]: And that is more or less what is happening all day Sunday as the 5 p.m.
+
+27:34.953 --> 27:35.974
+[SPEAKER_03]: deadline draws ever near.
+
+27:36.474 --> 27:38.576
+[SPEAKER_05]: So we hit that deadline, and again, nothing.
+
+27:39.157 --> 27:43.221
+[SPEAKER_05]: Alex, where was your head at sort of the end of Sunday?
+
+27:43.321 --> 27:50.428
+[SPEAKER_05]: Obviously, things get crazy several hours after that deadline, but where were we at the end of that day on Sunday, do you think?
+
+27:50.768 --> 27:56.234
+[SPEAKER_04]: I was feeling like if we didn't have an announcement by five, it wasn't going to work out.
+
+27:56.594 --> 28:02.516
+[SPEAKER_04]: And we were kind of getting back channel that by midday Sunday, things were taking a turn.
+
+28:03.117 --> 28:07.738
+[SPEAKER_04]: And I didn't obviously no one could have expected what actually happened.
+
+28:07.758 --> 28:11.580
+[SPEAKER_04]: This is the most like I was saying at the top bananas thing.
+
+28:12.160 --> 28:19.263
+[SPEAKER_04]: But yeah, I think people were generally people who were close to the story were thinking like, OK, he made it very clear publicly.
+
+28:19.303 --> 28:21.323
+[SPEAKER_04]: This is the last time he's setting foot in the building.
+
+28:21.844 --> 28:24.925
+[SPEAKER_04]: The deadline has passed and it's not looking good.
+
+28:25.565 --> 28:31.691
+[SPEAKER_05]: And there's a version of that that would have been a very dramatic weekend that ended in a relatively okay thing.
+
+28:32.051 --> 28:33.472
+[SPEAKER_05]: Sam and Greg go off to do something.
+
+28:33.492 --> 28:35.094
+[SPEAKER_05]: They bring some open AI people with them.
+
+28:35.454 --> 28:37.016
+[SPEAKER_05]: Open AI hires a new CEO.
+
+28:37.536 --> 28:38.977
+[SPEAKER_05]: Everybody moves on with their lives.
+
+28:39.718 --> 28:44.342
+[SPEAKER_05]: There's a version of this where a lot of people had a lot of feelings, but it turns into a relatively normal
+
+28:45.183 --> 28:47.165
+[SPEAKER_05]: corporate change, right?
+
+28:47.325 --> 28:49.526
+[SPEAKER_05]: But that is obviously not what happened.
+
+28:49.907 --> 28:50.067
+[SPEAKER_03]: Right.
+
+28:50.107 --> 28:52.348
+[SPEAKER_03]: The negotiation to bring Sam Altman back has failed.
+
+28:52.388 --> 28:58.433
+[SPEAKER_03]: Miramarati continues his interim CEO, Microsoft wishes Sam the best and says they'll support him in the new venture.
+
+28:58.453 --> 28:58.913
+[SPEAKER_03]: Right.
+
+28:59.293 --> 29:04.617
+[SPEAKER_03]: Again, the thing that needed to happen by Monday morning was a Microsoft statement to the market.
+
+29:05.338 --> 29:10.461
+[SPEAKER_03]: And you really just cannot underestimate how much pressure that was applying to the situation.
+
+29:10.481 --> 29:10.962
+[SPEAKER_03]: Yeah.
+
+29:11.582 --> 29:14.243
+[SPEAKER_03]: So I'm expecting that statement, right?
+
+29:14.283 --> 29:15.823
+[SPEAKER_03]: Like, here's the forcing function.
+
+29:16.324 --> 29:19.545
+[SPEAKER_03]: We just have to be ready for this deal is going to fall apart.
+
+29:20.065 --> 29:26.767
+[SPEAKER_03]: Microsoft is going to issue some holding statement and say, you know, we have a deal with open AI, everything's fine.
+
+29:26.827 --> 29:28.567
+[SPEAKER_03]: Our contracts are rock solid.
+
+29:29.148 --> 29:34.429
+[SPEAKER_03]: Brad Smith, our chief legal officer is a great lawyer, like whatever Microsoft is going to say to calm everybody down.
+
+29:35.090 --> 29:35.910
+[SPEAKER_03]: But instead,
+
+29:36.670 --> 29:37.932
+[SPEAKER_03]: Then all credit to Bloomberg.
+
+29:38.072 --> 29:54.472
+[SPEAKER_03]: Bloomberg has a report, I don't know, 10 minutes before the thing actually happens that Mira Murati has hatched a plan as interim CEO to just rehire Sam and Greg as employees while the board is out calling people
+
+29:55.353 --> 29:57.636
+[SPEAKER_03]: to interview them to be the CEO to replace Mira.
+
+29:58.097 --> 30:09.892
+[SPEAKER_03]: And so what comes out in the end, I'll just fast forward a little bit, is Mira's plan was to quickly hire Sam and Greg as employees again, forcing the board to fire all three of them.
+
+30:10.771 --> 30:12.733
+[SPEAKER_03]: which would have led to presumably lawsuit.
+
+30:12.753 --> 30:15.074
+[SPEAKER_03]: Like who knows what was gonna happen in that moment.
+
+30:15.495 --> 30:22.000
+[SPEAKER_03]: But that was the last swing of chaos when it was, I think obvious, oh, this just fell apart.
+
+30:22.540 --> 30:26.764
+[SPEAKER_03]: Like we're not in a place where we're negotiating for people resigning.
+
+30:26.904 --> 30:33.869
+[SPEAKER_03]: We're in a place where we're actively trying to create legal leverage for a lawsuit to come.
+
+30:34.450 --> 30:39.274
+[SPEAKER_03]: And the board is actively trying to replace the person that they just hired to replace the CEO they fired.
+
+30:40.717 --> 30:49.583
+[SPEAKER_04]: Sorry, it's just I know it's just like this whole thing has been such a blur for Nila and I like when you say all this out loud, it's just truly it's insane.
+
+30:49.823 --> 30:55.907
+[SPEAKER_05]: And it does seem like I think your instinct there is right, Nila, that it's at that point what you're saying is I'm not going to quit.
+
+30:56.007 --> 30:56.808
+[SPEAKER_05]: You have to fire me.
+
+30:56.928 --> 30:57.048
+[SPEAKER_05]: Yeah.
+
+30:57.268 --> 31:03.973
+[SPEAKER_05]: Like I'm going to cause so much trouble for you that you're going to have to get rid of me and then I'm going to have ammo kind of in whatever direction I want to use it.
+
+31:04.013 --> 31:04.713
+[SPEAKER_03]: Yeah, exactly.
+
+31:04.873 --> 31:05.053
+[SPEAKER_03]: Right.
+
+31:05.093 --> 31:09.236
+[SPEAKER_03]: And the rehiring of Sam and Greg is like a deeply funny idea.
+
+31:09.536 --> 31:10.537
+[SPEAKER_03]: Like you have to fire them again.
+
+31:12.258 --> 31:15.439
+[SPEAKER_03]: Just like hire them as interns and watch them get fired.
+
+31:15.499 --> 31:15.679
+[SPEAKER_03]: Yeah.
+
+31:15.819 --> 31:17.620
+[SPEAKER_03]: And all three of them will then sue the board.
+
+31:18.361 --> 31:22.562
+[SPEAKER_03]: And this is when Alex and I just started sending out hundreds of text messages.
+
+31:22.783 --> 31:23.943
+[SPEAKER_03]: This is about to fall apart.
+
+31:24.383 --> 31:26.124
+[SPEAKER_03]: Like this is absolutely about to fall apart.
+
+31:26.904 --> 31:28.465
+[SPEAKER_03]: And it fell apart.
+
+31:28.565 --> 31:33.708
+[SPEAKER_03]: And it fell apart in the weirdest way possible, which is the board just didn't even announce.
+
+31:34.748 --> 31:36.329
+[SPEAKER_03]: Like the information broke.
+
+31:36.649 --> 31:36.829
+[SPEAKER_04]: Yeah.
+
+31:36.889 --> 31:38.429
+[SPEAKER_04]: This is just like coming from sources.
+
+31:38.449 --> 31:41.010
+[SPEAKER_04]: Like the board has been in a bunker somewhere.
+
+31:41.130 --> 31:42.851
+[SPEAKER_04]: They don't have a crisis comms team.
+
+31:42.871 --> 31:45.072
+[SPEAKER_04]: They don't have like people speaking to the media.
+
+31:45.692 --> 31:53.335
+[SPEAKER_04]: They've just been radio silent, but it starts to trickle out that they've actually named a new CEO and it's Emmett Shear.
+
+31:53.855 --> 31:56.879
+[SPEAKER_04]: Not on my bingo card for who is going to be the next CEO of OpenAI.
+
+31:57.239 --> 31:58.821
+[SPEAKER_04]: Not on anyone's bingo card.
+
+31:59.002 --> 32:02.085
+[SPEAKER_04]: I think it's very safe to call this one out of left field.
+
+32:02.326 --> 32:09.114
+[SPEAKER_04]: Emmett was the co-founder of Twitch, which is a live streaming video site, not an AI company.
+
+32:09.214 --> 32:12.018
+[SPEAKER_04]: He's not seen as an AI leader.
+
+32:12.578 --> 32:22.524
+[SPEAKER_04]: He posted shortly after it leaks that he was being named CEO that he got the call for the job that day and took a few hours to decide.
+
+32:22.884 --> 32:24.605
+[SPEAKER_04]: And, you know, he's a free agent.
+
+32:24.705 --> 32:28.147
+[SPEAKER_04]: He left Twitch earlier this year before mass layoffs.
+
+32:28.167 --> 32:29.668
+[SPEAKER_04]: They've had two rounds of layoffs since.
+
+32:30.529 --> 32:40.375
+[SPEAKER_04]: I can confidently say that the vibe within Amazon is that Twitch has been a, hmm, how should I put this, a shit show since Amazon bought it.
+
+32:41.195 --> 32:45.597
+[SPEAKER_04]: And so no one really thought of Emmett, except the board, apparently.
+
+32:45.917 --> 32:57.683
+[SPEAKER_04]: He is now the CEO, and he sent this note internally to employees saying that he was going to conduct an independent review of the board's actions, which is hilarious because he was hired by the board.
+
+32:57.703 --> 33:06.507
+[SPEAKER_04]: I don't think that's possible to have an independent review when you are the person you're represented by, the people that you're reviewing.
+
+33:06.547 --> 33:07.488
+[SPEAKER_04]: I mean, it just doesn't make sense.
+
+33:07.768 --> 33:14.216
+[SPEAKER_03]: And also those people can callously fire you whenever they want, which they've proven twice in 48 hours that they can do.
+
+33:14.777 --> 33:15.017
+[SPEAKER_04]: Okay.
+
+33:15.117 --> 33:17.059
+[SPEAKER_04]: And we've been dancing around this, this whole time.
+
+33:17.120 --> 33:22.566
+[SPEAKER_04]: I really think at this point, we should just say who these people are because at the end of the day, three people set all this in motion.
+
+33:22.766 --> 33:25.790
+[SPEAKER_04]: Three people have caused open AI to explode from within.
+
+33:25.810 --> 33:27.072
+[SPEAKER_04]: So should we just get into that?
+
+33:27.392 --> 33:27.892
+[SPEAKER_04]: Yeah, do it.
+
+33:28.033 --> 33:28.233
+[SPEAKER_04]: Okay.
+
+33:28.653 --> 33:32.296
+[SPEAKER_04]: So OpenAI is very strange in how it's structured.
+
+33:32.436 --> 33:39.822
+[SPEAKER_04]: And this is something that people haven't really been paying attention to because we've been so focused on just the success of their products with chat GPT.
+
+33:40.422 --> 33:42.604
+[SPEAKER_04]: But OpenAI started as a nonprofit.
+
+33:42.884 --> 33:45.587
+[SPEAKER_04]: And so it has this weird structure where there's a non-profit.
+
+33:45.827 --> 33:48.050
+[SPEAKER_04]: There's a flow chart, which is like perfect for Dakota.
+
+33:48.070 --> 33:50.853
+[SPEAKER_04]: There's a flow chart on OpenAI's website.
+
+33:50.993 --> 33:55.319
+[SPEAKER_04]: And I challenge you to look at this flow chart and try to make sense of it.
+
+33:55.439 --> 33:56.800
+[SPEAKER_04]: It is one of the most confusing.
+
+33:56.820 --> 33:58.202
+[SPEAKER_03]: I just want to be very clear.
+
+33:58.242 --> 33:59.223
+[SPEAKER_03]: You can definitely make sense of it.
+
+33:59.263 --> 34:01.426
+[SPEAKER_03]: And they've drawn it to be more confusing than it actually is.
+
+34:01.886 --> 34:02.166
+[SPEAKER_04]: Okay.
+
+34:02.466 --> 34:03.127
+[SPEAKER_03]: That is 100% true.
+
+34:03.147 --> 34:06.068
+[SPEAKER_04]: We're going to redraw the flow chart now because it's all different.
+
+34:07.308 --> 34:10.309
+[SPEAKER_04]: So there's this nonprofit with this board that controls it.
+
+34:10.450 --> 34:17.552
+[SPEAKER_04]: And importantly, the board of open AI does not have equity in open AI, which is a really wild thing.
+
+34:17.993 --> 34:20.033
+[SPEAKER_04]: And so that's the context of the board.
+
+34:20.093 --> 34:23.095
+[SPEAKER_04]: There's three of them really that aren't open AI people.
+
+34:23.255 --> 34:26.496
+[SPEAKER_04]: So one of them is Adam D'Angelo, who is the CEO of Quora.
+
+34:26.576 --> 34:30.918
+[SPEAKER_04]: He operates, I should note, a competing AI chatbot platform called Poe.
+
+34:31.378 --> 34:33.199
+[SPEAKER_04]: He was the original CTO of Facebook.
+
+34:33.239 --> 34:35.660
+[SPEAKER_04]: He's a known quantity in Silicon Valley.
+
+34:35.700 --> 34:37.241
+[SPEAKER_04]: He's a really well-connected guy.
+
+34:37.721 --> 34:42.143
+[SPEAKER_04]: There's a woman named Helen Toner who has ties to the effective autism movement.
+
+34:42.203 --> 34:43.924
+[SPEAKER_04]: She used to work at Open Philanthropy.
+
+34:44.304 --> 34:45.444
+[SPEAKER_04]: She's now at Georgetown.
+
+34:45.524 --> 34:47.485
+[SPEAKER_04]: She funds AI safety stuff.
+
+34:47.585 --> 34:52.648
+[SPEAKER_04]: She was actually on our stage at Code in September with Casey Newton talking about AI safety.
+
+34:53.328 --> 34:58.630
+[SPEAKER_04]: And then the other one is a woman named Tasha McCauley, who is the former CEO of GeoSim Systems.
+
+34:58.670 --> 34:59.491
+[SPEAKER_04]: And as far as I can tell,
+
+35:00.251 --> 35:02.932
+[SPEAKER_04]: basically no one in tech that I know knows who she is.
+
+35:03.012 --> 35:09.575
+[SPEAKER_04]: Okay, so that's the three people, and they are the ones who basically decide to bring Emma in.
+
+35:09.915 --> 35:20.419
+[SPEAKER_04]: Because as we find out in the next turn of the story, the guy that we thought was the architect, the mastermind of all of this, flipped, which we can get into.
+
+35:21.058 --> 35:22.819
+[SPEAKER_03]: Yeah, so, and it's a weird choice.
+
+35:23.319 --> 35:24.180
+[SPEAKER_03]: And it's a weird choice.
+
+35:24.280 --> 35:30.423
+[SPEAKER_03]: And also, openly, a decelerationist, which is a phrase that the AI community loves to use.
+
+35:30.443 --> 35:33.605
+[SPEAKER_03]: Like, there's videos of him being like, this is terrifying.
+
+35:34.046 --> 35:35.066
+[SPEAKER_03]: We should slow it down.
+
+35:35.366 --> 35:39.469
+[SPEAKER_03]: This will extinguish all value in the cone of light, which is a real thing he says.
+
+35:39.709 --> 35:40.029
+[SPEAKER_03]: Wow.
+
+35:40.269 --> 35:40.949
+[SPEAKER_03]: It's amazing.
+
+35:41.310 --> 35:48.054
+[SPEAKER_03]: And his point of view is we should slow AI innovation way down so we can get a handle on how dangerous it is.
+
+35:49.034 --> 35:50.336
+[SPEAKER_03]: So you can see where the board is, right?
+
+35:50.356 --> 35:52.739
+[SPEAKER_03]: This is the split that we've been hearing about the entire time.
+
+35:53.200 --> 35:57.847
+[SPEAKER_03]: Open eyes playing with dangerous toys and Sam is running too fast.
+
+35:58.187 --> 36:01.351
+[SPEAKER_03]: So we've brought an Emmett shear to slow this whole thing way down.
+
+36:01.792 --> 36:02.593
+[SPEAKER_03]: Yeah, I think that's right.
+
+36:02.733 --> 36:05.657
+[SPEAKER_05]: And then on the flip side, very early this morning,
+
+36:06.258 --> 36:20.122
+[SPEAKER_05]: Neil, I think to your point correctly, to get something out before the stock markets opened, Microsoft announces it has hired Sam Altman and Greg Brockman to run, I believe the phrase is an AI research lab.
+
+36:20.342 --> 36:22.462
+[SPEAKER_03]: An advanced AI research team is their statement.
+
+36:22.762 --> 36:25.323
+[SPEAKER_03]: And can I just read the statement from Sacha Nadella?
+
+36:25.663 --> 36:26.063
+[SPEAKER_03]: Please do.
+
+36:26.263 --> 36:28.604
+[SPEAKER_03]: Which just contains magnitudes.
+
+36:29.344 --> 36:37.446
+[SPEAKER_03]: We remain committed to our partnership with OpenAI, of confidence in our product roadmap, our ability to continue to innovate with everything we've announced at Microsoft Ignite, and in continuous support of customers and partners.
+
+36:37.826 --> 36:44.508
+[SPEAKER_03]: We look forward to getting to know Emmett Shearer, and OAI's new leadership team, and working with them.
+
+36:45.068 --> 36:49.049
+[SPEAKER_03]: And we are extremely excited to share the news at Sam Altman and Greg Rockman.
+
+36:49.089 --> 36:53.690
+[SPEAKER_03]: Together with colleagues, we'll be joining Microsoft to lead a new advanced AI research team.
+
+36:54.010 --> 36:57.731
+[SPEAKER_03]: We look forward to moving quickly to provide them with the resources needed for their success.
+
+36:58.311 --> 37:00.553
+[SPEAKER_03]: In the journalism business, we call that bearing the lead.
+
+37:02.294 --> 37:11.962
+[SPEAKER_03]: And importantly, Sam Altman is being given the title of CEO at Microsoft, which is inside Microsoft's corporate politics, like a big deal, right?
+
+37:11.982 --> 37:13.783
+[SPEAKER_03]: There are not a lot of CEOs at Microsoft.
+
+37:14.103 --> 37:16.065
+[SPEAKER_03]: Usually when they acquire a big company,
+
+37:16.505 --> 37:23.147
+[SPEAKER_03]: They give those people the CEO title, so the person who leads LinkedIn as a CEO title, the person who leads GitHub as a CEO title.
+
+37:23.527 --> 37:26.808
+[SPEAKER_03]: Phil Spencer is now the CEO of Microsoft Gaming.
+
+37:27.268 --> 37:28.188
+[SPEAKER_03]: That's a big deal.
+
+37:28.208 --> 37:34.210
+[SPEAKER_03]: You can go listen to that Decoder episode where I ask him what that title shift means, and it basically means he has his own resources.
+
+37:35.030 --> 37:37.591
+[SPEAKER_03]: He's split off from Microsoft, your own P&L.
+
+37:37.651 --> 37:40.612
+[SPEAKER_03]: Well, I was even listening to that episode.
+
+37:41.368 --> 37:49.273
+[SPEAKER_03]: It basically means you have your own resources and you are more of a free agent to run your little division like it's own little company.
+
+37:49.313 --> 37:51.054
+[SPEAKER_03]: So this is the arrangement Sam is getting.
+
+37:51.514 --> 37:56.217
+[SPEAKER_03]: What I will tell you is I read this statement, especially that we look forward to getting to know Emma Cheer.
+
+37:56.717 --> 37:57.198
+[SPEAKER_03]: They don't know.
+
+37:57.258 --> 37:58.098
+[SPEAKER_03]: They don't know these people.
+
+37:58.118 --> 37:59.779
+[SPEAKER_03]: They don't know what's going to happen with OpenAI.
+
+37:59.799 --> 38:00.840
+[SPEAKER_03]: They don't know if Emma's going to turn
+
+38:01.300 --> 38:10.725
+[SPEAKER_03]: the pace of innovation way down, but they are able to tell the market, hey, the face of the AI winning that we've been doing as Microsoft now works at Microsoft.
+
+38:11.105 --> 38:13.486
+[SPEAKER_03]: Does Sam Altman have a contract to work at Microsoft yet?
+
+38:13.546 --> 38:14.927
+[SPEAKER_03]: Like, I don't know the answer to that question.
+
+38:15.407 --> 38:29.414
+[SPEAKER_03]: Does Sam Altman, the guy used to run Y Combinator who has his hands in every startup in the universe, has multiple investment funds, thinks of himself as the guy who was running the hottest AI startup in the world on its way to making AGI,
+
+38:30.194 --> 38:32.215
+[SPEAKER_03]: Does he want to be a Microsoft employee?
+
+38:32.235 --> 38:35.437
+[SPEAKER_03]: I truly do not know the answer to that question.
+
+38:35.837 --> 38:42.801
+[SPEAKER_03]: I do know that this statement utterly worked to not only calm the market, but to send Microsoft stocks skyrocketing.
+
+38:43.381 --> 38:48.544
+[SPEAKER_03]: And we are now sitting here saying, do we need to pre-write Microsoft is now a $3 trillion company?
+
+38:49.024 --> 38:52.286
+[SPEAKER_03]: Because the stock as we are speaking is like to the moon.
+
+38:53.206 --> 38:54.350
+[SPEAKER_03]: So this statement worked.
+
+38:54.531 --> 38:56.396
+[SPEAKER_03]: I'm just cautioning everyone.
+
+38:57.078 --> 38:59.385
+[SPEAKER_03]: This, in my view, is a holding statement.
+
+38:59.445 --> 39:00.850
+[SPEAKER_03]: It's still a holding statement.
+
+39:01.124 --> 39:11.091
+[SPEAKER_04]: Well, I think knowing what we know about Sunday, knowing that Microsoft really wanted to have this buttoned up by markets open, this was decided like, it was like almost like 1 a.m.
+
+39:11.151 --> 39:11.611
+[SPEAKER_04]: Pacific.
+
+39:11.871 --> 39:12.612
+[SPEAKER_04]: Yeah, I was asleep.
+
+39:12.892 --> 39:14.733
+[SPEAKER_04]: Like, straight up, I was like, I'm done now.
+
+39:14.953 --> 39:17.815
+[SPEAKER_04]: I'm thinking that, like, okay, surely nothing more is to come.
+
+39:17.955 --> 39:23.179
+[SPEAKER_04]: And then, like, around one, Adele tweets this, and luckily Tom Warren is waking up in London and gets it on the site.
+
+39:23.639 --> 39:23.979
+[SPEAKER_04]: It's nuts.
+
+39:24.159 --> 39:29.243
+[SPEAKER_04]: But I think there's an important thing here, which is we know that Microsoft wanted to get this done.
+
+39:30.103 --> 39:36.147
+[SPEAKER_04]: I have to imagine that whatever got Sam and Greg to agree to go to Microsoft was a lot.
+
+39:36.608 --> 39:40.991
+[SPEAKER_04]: I imagine they had all the leverage in that situation because they'll just go do their own thing, right?
+
+39:41.031 --> 39:42.092
+[SPEAKER_04]: Like we've all been saying.
+
+39:42.672 --> 39:51.438
+[SPEAKER_04]: Microsoft cannot make it look like the company that they have literally bet their AI Azure future on is imploding before their very eyes.
+
+39:52.720 --> 39:59.931
+[SPEAKER_04]: I have to imagine this is going to go down as one of the best packages ever from a big tech company to a team to come
+
